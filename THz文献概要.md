@@ -1,0 +1,855 @@
+  Zotero 报告   
+
++   ## 2D Materials as THz Generators, Detectors, and Modulators: Potential Candidates for Biomedical Applications
+    
+    <table><tbody><tr><th>条目类型</th><td>图书章节</td></tr><tr><th class="author">作者</th><td>Tanmoy Basu</td></tr><tr><th class="author">作者</th><td>Amit Banerjee</td></tr><tr><th class="author">作者</th><td>Saumitra Vajandar</td></tr><tr><th>日期</th><td>2020</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>短标题</th><td>2D Materials as THz Generators, Detectors, and Modulators</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000045">https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000045</a></td></tr><tr><th>访问时间</th><td>2025/4/5 22:29:24</td></tr><tr><th>版权</th><td>https://www.elsevier.com/tdm/userlicense/1.0/</td></tr><tr><th>其他</th><td>DOI: 10.1016/B978-0-12-818556-8.00004-5</td></tr><tr><th>出版社</th><td>Elsevier</td></tr><tr><th>ISBN</th><td>978-0-12-818556-8</td></tr><tr><th>页码</th><td>75-87</td></tr><tr><th>书名</th><td>Terahertz Biomedical and Healthcare Technologies</td></tr><tr><th>添加日期</th><td>2025/4/5 22:29:24</td></tr><tr><th>修改日期</th><td>2025/4/5 22:29:24</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   PDF
++   ## 29924
+    
+    <table><tbody><tr><th>条目类型</th><td>附件</td></tr><tr><th>添加日期</th><td>2025/5/4 15:47:58</td></tr><tr><th>修改日期</th><td>2025/5/4 15:47:58</td></tr></tbody></table>
+    
++   ## 20120717053032423
+    
+    <table><tbody><tr><th>条目类型</th><td>附件</td></tr><tr><th>添加日期</th><td>2025/5/1 16:50:11</td></tr><tr><th>修改日期</th><td>2025/5/1 16:50:11</td></tr></tbody></table>
+    
++   ## 多功能磁光子晶体太赫兹可调偏振控制器件
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>范飞</td></tr><tr><th class="author">作者</th><td>郭展</td></tr><tr><th class="author">作者</th><td>白晋军</td></tr><tr><th class="author">作者</th><td>王湘晖</td></tr><tr><th class="author">作者</th><td>常胜江</td></tr><tr><th>摘要</th><td>通过对磁场控制下的二维磁光子晶体太赫兹波偏振传输特性的研究,利用铁氧体磁光材料的磁导率随外磁场改变而变化的特点,设计了具有可 控起偏、偏振分束和可调谐波片功能的光子晶体太赫兹偏振控制器件.利用平面波展开法和严格耦合波分析分别计算了光子晶体带隙位置和透过率随外磁场强度变化 的关系,用时域有限差分法计算了场分布和相位.结果表明,该结构可以实现高偏振消光比的偏振起偏器和分束器,以及在1 THz附近-相位范围的连续可调谐波片.</td></tr><tr><th>日期</th><td>2011-04-05</td></tr><tr><th>语言</th><td>zh</td></tr><tr><th>文库编目</th><td>wulixb.iphy.ac.cn</td></tr><tr><th>网址</th><td><a href="https://wulixb.iphy.ac.cn/cn/article/doi/10.7498/aps.60.084219">https://wulixb.iphy.ac.cn/cn/article/doi/10.7498/aps.60.084219</a></td></tr><tr><th>访问时间</th><td>2025/4/4 16:59:01</td></tr><tr><th>版权</th><td>http://creativecommons.org/licenses/by/3.0/</td></tr><tr><th>其他</th><td>Publisher: 物理学报</td></tr><tr><th>卷次</th><td>60</td></tr><tr><th>页码</th><td>084219-084219</td></tr><tr><th>刊名</th><td>物理学报</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.7498/aps.60.084219">10.7498/aps.60.084219</a></td></tr><tr><th>期号</th><td>8</td></tr><tr><th>刊名简称</th><td>Acta Phys. Sin.</td></tr><tr><th>ISSN</th><td>1000-3290</td></tr><tr><th>添加日期</th><td>2025/4/4 16:59:01</td></tr><tr><th>修改日期</th><td>2025/4/4 16:59:01</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   Full Text PDF
++   ## 飞秒激光成丝现象中光强钳制效应研究
+    
+    <table><tbody><tr><th>条目类型</th><td>学位论文</td></tr><tr><th class="author">作者</th><td>徐圣奇</td></tr><tr><th class="contributor">贡献者</th><td>刘伟伟</td></tr><tr><th>摘要</th><td>在透明介质中传输的飞秒激光，当其峰值功率足够高时，可以保持很高的强度传输很长的距离而不产生发散，并电离介质分子从而形成一条很 长的等离子体通道，这种独特的非线性光学现象被称为激光成丝。由于激光成丝的内部蕴含着丰富的物理过程，并且在激光引雷、大气远程探测等领域具有潜在的应 用前景，近年来逐渐成为科学领域一个热门的前沿课题。激光成丝的主要物理机制是光克尔自聚焦效应和等离子体散焦效应二者之间动态平衡，这种平衡也导致了其 内部的峰值光强约为一个常数，这一现象被称为光强钳制效应。本论文针对光丝内的光强钳制效应开展了一系列理论以及实验研究，验证了TW量级激光在不同气体 中以及双丝干涉过程中的光强钳制效应；提出了一种全新的测量光丝内峰值光强的方法；在实验上发现了光丝发射荧光的超稳定性，并通过理论模拟成功解释了光强 钳制效应是导致该稳定性的主要原因。本文研究了飞秒激光在空气中和氩气中激光成丝内部的光强钳制现象，根据激光成丝侧向辐射荧光光谱的斯塔克展宽，计算出 成丝内部的等离子体密度，结合电离速率方程，推导出了激光成丝内部的峰值光强。结果表明，尽管入射激光峰值功率从0.1TW（1012瓦）增加到 1.5TW，激光成丝内部的峰值光强基本保持不变，光强钳制效应始终制约着激光成丝内部光强的提高。本文还研究了双丝干涉区域的光强钳制效应。将两束独立 传播的飞秒激光分别经透镜聚焦后在空气中成丝，二者在焦点位置完全重合、彼此相互干涉并在空间中形成一个等离子体动态光栅，通过干涉区域辐射的氮气荧光信 号判断其内部峰值光强的演化，发现峰值光强的提高远远低于线性叠加的结果，这表明光强钳制效应同样制约着其内部峰值光强的提高，因此，通过双丝干涉的方法 显著地提高光丝内部峰值光强并不现实。光强是研究飞秒激光成丝内部物理机制的一个重要参量。然而，成丝内部光强的测量是一件很有挑战性的工作，目前的研究 方法主要依赖数值模拟。本论文提出一种测量空气中激光成丝内部峰值光强的方法，该方法是建立在测量391nm和337nm两条氮气荧光谱线强度比的基础 上。由于激发机制不同，这两条荧光谱线的强度和激光成丝内部的峰值强度满足不同关系。最后还通过实验获得了一个经验公式，利用这个公式可以直接根据荧光信 号的强度比值计算出激光成丝内部的峰值光强。该方法解决了成丝非线性光学领域久而未决的基础性难题，为研究光强钳制现象提供了新的技术手段。飞秒激光成丝 在大气远程污染探测领域具有广泛的...</td></tr><tr><th>日期</th><td>2012</td></tr><tr><th>语言</th><td>zh-CN</td></tr><tr><th>文库编目</th><td>CNKI</td></tr><tr><th>网址</th><td><a href="https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&amp;dbname=CDFD1214&amp;filename=1013175083.nh">https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&amp;dbname=CDFD1214&amp;filename=1013175083.nh</a></td></tr><tr><th>访问时间</th><td>2025/5/1 17:09:04</td></tr><tr><th>其他</th><td>major: 光学工程 foundation: 国家重点基础研究发展规划;国家自然科学;； download: 721 album: 基础科学;信息科技 CLC: TN248 dbcode: CDFD dbname: CDFD1214 filename: 1013175083.nh</td></tr><tr><th>总页数</th><td>111</td></tr><tr><th>论文类型</th><td>博士学位论文</td></tr><tr><th>大学</th><td>南开大学</td></tr><tr><th>添加日期</th><td>2025/5/1 17:09:05</td></tr><tr><th>修改日期</th><td>2025/5/1 19:00:32</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   氮气荧光
+    +   等离子体散焦
+    +   多光子电离
+    +   飞秒激光成丝
+    +   峰值光强
+    +   光强钳制效应
+    +   双丝干涉
+    +   斯塔克展宽
+    +   隧道电离
+    +   自聚焦
+    
+    ### 附件
+    
+    +   Full Text PDF
++   ## 高能量光泵太赫兹气体激光器研究
+    
+    <table><tbody><tr><th>条目类型</th><td>学位论文</td></tr><tr><th class="author">作者</th><td>苗亮</td></tr><tr><th>摘要</th><td>太赫兹波具有透视性、安全性、光谱分辨本领等特点,在无损检测、安全检查、光谱分析等领域有重要的应用前景。光泵太赫兹气体激光器是 获得高能量高功率相干太赫兹波的重要技术,通过改变增益介质和泵浦光波长可以获得数千条太赫兹谱线。很多太赫兹增益介质的吸收谱都在CO2激光的波长范围 内,横向放电激励大气压(TEA) CO2激光器的脉冲能量和峰值功率很高,是脉冲光泵太赫兹激光器最有效的泵浦源。 本论文利用TEA CO2激光器泵浦NH3、CH3OH和D2O产生脉冲太赫兹激光,主要研究内容包括提高太赫兹激光能量和转换效率的方法,以及太赫兹激光参数和特性的测试 技术。 为了获得多条太赫兹谱线,需要泵浦激光实现波长调谐输出,本论文首先研究高能量TEA CO2激光器的光栅选支技术。探讨了光栅选支的原理,光栅参数的设计依据,以及光栅的Littrow安装结构。利用闪耀光栅实现两种型号TEA CO2激光器的选支输出,其中TEA-30型激光器输出58条支线,最高能量13J,TEA-300型激光器输出49条支线,最高能量54J。为了实现单 支线振荡,激光谐振腔必须足够长以增大相邻支线间的线色散。在高气压工作的TEA-300型激光器的混合气体中加入少量三乙胺可以稳定辉光放电和激光脉冲 能量,但会降低9μm带支线的能量。 合理设计太赫兹激光振荡器可以有效提高太赫兹激光的转换效率,本论文设计了两套太赫兹激光振荡器真空系统。其中低真空系统由石英玻璃管激光腔、机械泵、热 偶规等组成,以O型橡胶圈密封；高真空系统由不锈钢管激光腔、涡轮分子泵、复合高真空规等组成,主要以刀口法兰和铜垫圈密封。提出用Ge标准具作为振荡器 的太赫兹高反镜,其太赫兹反射率可达78%,太赫兹部分反射镜使用石英晶体。 为了获得高能量太赫兹激光,需要高增益的太赫兹增益气体。利用前面设计的选支TEA CO2激光器和太赫兹激光振荡器,研究了NH3、CH3OH和D2O的太赫兹谱线特性。利用TEA-300的10P(32)支线泵浦NH3产生的 151.5μm谱线能量高达204mJ,9R(16)支线泵浦产生的90μm谱线能量为130mJ。利用Ge标准具充当太赫兹激光振荡器的高反镜 时,151.5μm谱线的光子转换效率高达20.8%。CH30H蒸汽由TEA-30的9P(16)支线泵浦产生的570.5gm谱线能量为 0.39mJ,9P(36)支线泵浦产生的118.8μm谱线能量为0.27mJ。...</td></tr><tr><th>日期</th><td>2012</td></tr><tr><th>语言</th><td>zh</td></tr><tr><th>其他</th><td>CNKICite: 15</td></tr><tr><th>论文类型</th><td>博士</td></tr><tr><th>大学</th><td>华中科技大学</td></tr><tr><th>添加日期</th><td>2025/5/1 18:50:02</td></tr><tr><th>修改日期</th><td>2025/5/1 20:10:39</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   氨气
+    +   法布里-玻罗干涉仪
+    +   横向放电激励大气压CO2激光器
+    +   甲醇
+    +   金属线栅偏振器标准具
+    +   太赫兹激光器
+    +   重水
+    
+    ### 附件
+    
+    +   高能量光泵太赫兹气体激光器研究
++   ## 高Q几何扰动光栅-波导结构中差频产生可调谐太赫兹辐射的数值研究
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>梁世杰</td></tr><tr><th class="author">作者</th><td>邹家祺</td></tr><tr><th class="author">作者</th><td>王文静</td></tr><tr><th class="author">作者</th><td>刘迪</td></tr><tr><th class="author">作者</th><td>霍燕燕</td></tr><tr><th class="author">作者</th><td>宁廷银</td></tr><tr><th>摘要</th><td>非线性差频产生（difference frequency generation,DFG）是实现太赫兹（terahertz,THz）源的重要方式之一.利用微纳结构的DFG产生THz源可以不考虑相位匹配,同 时是器件小型化、可集成化的重要研究方向.借助微纳结构的共振模式增强的局域电场在宽波段范围内实现高效的、可调谐的THz源是该领域的研究重点.本文研 究了宽波段范围内具有高Q因子的光栅-波导结构中的DFG产生高效可调谐的THz辐射.理论上,通过调控相邻光栅中其中一个的位置扰动,从而实现光栅周期 的加倍,进而使得布里渊区发生折叠,光线下方波导层中导模色散曲线折叠到光锥上方,形成超高Q因子的导模共振,可以实现在宽光谱范围内增强的THz产生. 以硫化镉（cadmium sulfide,CdS）光栅-波导为例,数值研究表明,在两束基频光光强均为100 kW/cm&lt;sup&gt;2&lt;/sup&gt;时,THz的转换效率可达到10&lt;sup&gt;-8&lt;/sup&gt; W&lt;sup&gt;-1&lt;/sup&gt;的量级,为相同厚度CdS薄膜转换效率的10～9倍.通过改变两束基频光入射角,可实现不同共振基 频组合,实现任意频率THz波产生,从而实现了在宽光谱范围内高效可调谐的THz源.</td></tr><tr><th>日期</th><td>2025</td></tr><tr><th>语言</th><td>zh</td></tr><tr><th>索书号</th><td>11-1958/O4</td></tr><tr><th>卷次</th><td>74</td></tr><tr><th>页码</th><td>132-139</td></tr><tr><th>刊名</th><td>物理学报</td></tr><tr><th>期号</th><td>3</td></tr><tr><th>ISSN</th><td>1000-3290</td></tr><tr><th>添加日期</th><td>2025/5/2 13:09:47</td></tr><tr><th>修改日期</th><td>2025/5/2 13:09:48</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    +   ⛔ No DOI found
+    +   差频产生
+    +   导模共振
+    +   太赫兹源
++   ## 光子晶体对太赫兹波的调制特性研究
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>张戎</td></tr><tr><th class="author">作者</th><td>曹俊诚</td></tr><tr><th>摘要</th><td>利用传输矩阵方法研究了掺杂半导体n-GaAs/聚碳酸脂一维光子晶体的太赫兹波透射谱.研究结果发现,与一般由两种介电材料组成的 一维光子晶体不同,由于掺杂半导体中自由载流子对太赫兹波存在较强的吸收,所以这种材料组成的一维光子晶体除可形成光子带隙外,还可以增强n-GaAs对 太赫兹波的透射.同时还提出了一种基于这种一维光子晶体的太赫兹波调制器,通过外加电压控制半导体中电子浓度的大小可实现对太赫兹透射波幅度的调制.</td></tr><tr><th>日期</th><td>2010</td></tr><tr><th>语言</th><td>zh</td></tr><tr><th>索书号</th><td>11-1958/O4</td></tr><tr><th>其他</th><td>CNKICite: 19</td></tr><tr><th>卷次</th><td>59</td></tr><tr><th>页码</th><td>3924-3929</td></tr><tr><th>刊名</th><td>物理学报</td></tr><tr><th>期号</th><td>6</td></tr><tr><th>ISSN</th><td>1000-3290</td></tr><tr><th>添加日期</th><td>2025/5/4 15:49:38</td></tr><tr><th>修改日期</th><td>2025/5/4 15:49:41</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    +   ⛔ No DOI found
+    +   掺杂半导体光子晶体
+    +   太赫兹波
+    +   太赫兹波的调制
+    
+    ### 附件
+    
+    +   光子晶体对太赫兹波的调制特性研究
++   ## 硅基太赫兹技术及未来趋势
+    
+    <table><tbody><tr><th>条目类型</th><td>文档</td></tr><tr><th>添加日期</th><td>2025/4/4 12:01:15</td></tr><tr><th>修改日期</th><td>2025/4/4 12:01:15</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## 基于超短脉冲激光与固体靶等离子体相互作用的强场太赫兹辐射
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>李儒博 Li Rubo</td></tr><tr><th class="author">作者</th><td>彭晓昱 Peng Xiaoyu</td></tr><tr><th class="author">作者</th><td>岳璋 Yue Zhang</td></tr><tr><th class="author">作者</th><td>张宇辉 Zhang Yuhui</td></tr><tr><th>摘要</th><td>The interaction between ultrashort intense laser pulses and solid-target plasmas can generate ultrabroadband, high-field terahertz (THz) radiation with their pulse energy ranging from tens of microjoule to over 100 mJ, spectral bandwidth covering far beyond the entire THz band, peak electric field strength reaching to tens of MV/cm, and peak magnetic field strength getting to several Tesla. The characteristics and parameters of these THz radiation depend on different laser parameters and targeting conditions, which can be attributed to different generation mechanisms. In this paper, several main mechanisms or theoretical models and their typical experiments involved on the interaction of ultrafast intense lasers pulses with solid-target plasmas for generation of high-field THz radiation are reviewed. Understanding of these mechanisms will be helpful for active modulation and optimization of these THz sources to improve the energy conversion efficiency. Due to their strong peak electric and magnetic fields, these pulsed THz sources will show many important, novel potential applications in many fields such as physics, chemistry, materials, and biomedical science.</td></tr><tr><th>日期</th><td>2024</td></tr><tr><th>语言</th><td>zh</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="http://www.opticsjournal.net/Articles/OJ2bfb17026151954c/FullText">http://www.opticsjournal.net/Articles/OJ2bfb17026151954c/FullText</a></td></tr><tr><th>访问时间</th><td>2025/4/14 14:53:22</td></tr><tr><th>卷次</th><td>61</td></tr><tr><th>页码</th><td>1500004</td></tr><tr><th>刊名</th><td>Laser &amp; Optoelectronics Progress</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.3788/LOP231419">10.3788/LOP231419</a></td></tr><tr><th>期号</th><td>15</td></tr><tr><th>刊名简称</th><td>Laser Optoelectron. Prog.</td></tr><tr><th>ISSN</th><td>1006-4125</td></tr><tr><th>添加日期</th><td>2025/4/14 14:53:22</td></tr><tr><th>修改日期</th><td>2025/4/29 09:08:11</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   \\很重要，廖的论文中有提到
+    
+    ### 附件
+    
+    +   PDF
++   ## 强激光太赫兹辐射源研究现状与发展趋势分析
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>蔡杰 Cai Jie</td></tr><tr><th class="author">作者</th><td>耿易星 Geng Yixing</td></tr><tr><th class="author">作者</th><td>余金清 Yu Jinqing</td></tr><tr><th class="author">作者</th><td>颜学庆 Yan Xueqing</td></tr><tr><th>日期</th><td>2023</td></tr><tr><th>语言</th><td>zh</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="http://www.opticsjournal.net/Articles/OJ26594ed9f8c0a6f3/FullText">http://www.opticsjournal.net/Articles/OJ26594ed9f8c0a6f3/FullText</a></td></tr><tr><th>访问时间</th><td>2025/4/14 14:08:47</td></tr><tr><th>卷次</th><td>50</td></tr><tr><th>页码</th><td>1714009</td></tr><tr><th>刊名</th><td>Chinese Journal of Lasers</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.3788/CJL230781">10.3788/CJL230781</a></td></tr><tr><th>期号</th><td>17</td></tr><tr><th>刊名简称</th><td>Chin. J. Laser</td></tr><tr><th>ISSN</th><td>0258-7025</td></tr><tr><th>添加日期</th><td>2025/4/14 14:08:47</td></tr><tr><th>修改日期</th><td>2025/4/26 18:44:45</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## 太赫兹表面极化激元
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>张学进</td></tr><tr><th class="author">作者</th><td>陆延青</td></tr><tr><th class="author">作者</th><td>陈延峰</td></tr><tr><th class="author">作者</th><td>朱永元</td></tr><tr><th class="author">作者</th><td>祝世宁</td></tr><tr><th>摘要</th><td>作为束缚于表面或界面的电磁波与极性元激发的耦合模量子,表面极化激元是克服衍射极限的核心物理.在紫外、可见以及近红外波段,表面 等离子极化激元展现出了亚波长特性,具有高分辨成像等应用,并发展成为"表面等离子极化激元亚波长光学"学科;在中红外波段,表面声子极化激元发挥着同样 的作用.太赫兹波段曾是人类认识的空白区域,近三十年来得以高速发展,其战略意义重大.具有克服衍射极限能力的太赫兹表面极化激元同样是小型化与集成化太 赫兹器件,以及太赫兹超高分辨成像的重要物理基础.近几年来,对以石墨烯为代表的二维材料的研究突飞猛进,诞生了"石墨烯表面等离子极化激元亚波长光学" 这门学科,并贡献于太赫兹领域.本文对可在太赫兹波段工作的人工超构材料、掺杂半导体、二维电子气、二维材料、拓扑绝缘体等结构材料的表面极化激元进行了 较为全面的总结与介绍,为研制克服衍射极限的太赫兹集成光子学器件提供可资借鉴的物理基础.</td></tr><tr><th>日期</th><td>2017</td></tr><tr><th>语言</th><td>zh</td></tr><tr><th>索书号</th><td>11-1958/O4</td></tr><tr><th>其他</th><td>CNKICite: 3</td></tr><tr><th>卷次</th><td>66</td></tr><tr><th>页码</th><td>307-326</td></tr><tr><th>刊名</th><td>物理学报</td></tr><tr><th>期号</th><td>14</td></tr><tr><th>ISSN</th><td>1000-3290</td></tr><tr><th>添加日期</th><td>2025/4/23 07:54:39</td></tr><tr><th>修改日期</th><td>2025/4/23 07:54:41</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    +   表面极化激元
+    +   二维材料
+    +   近场光学
+    +   太赫兹
+    
+    ### 附件
+    
+    +   太赫兹表面极化激元
++   ## 太赫兹金属线波导传输特性实验研究及模拟分析
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>徐振</td></tr><tr><th class="author">作者</th><td>罗曼</td></tr><tr><th class="author">作者</th><td>李吉宁</td></tr><tr><th class="author">作者</th><td>刘龙海</td></tr><tr><th class="author">作者</th><td>徐德刚</td></tr><tr><th>摘要</th><td>太赫兹波介于微波与红外之间,当前太赫兹波主要在自由空间中传输,金属线波导以低损耗、低色散等突出的传输特性被广泛关注.本研究首 先根据太赫兹波在不同金属线表面的趋肤深度选择铜线作为研究对象,然后基于太赫兹时域光谱系统搭建可调节式金属线波导传输特性测试光路,采集到通过不同半 径、不同长度、不同端口状态的单/双铜线传输的时域信号,最后利用有限元方法对不同半径、不同形变程度的单/双根铜线在空气域的传输特性进行仿真.实验结 果表明,传输损耗会随着铜线长度的增加而增加,金属线越细传输速度越慢,端口形态对传输特性的影响不如长度变化对传输特性的影响明显,双金属线越粗传输速 度越快.仿真结果表明,太赫兹波在单根金属线上传输时,电场主要分布在金属线表面,金属线越细表面等离激元的模场面积越小;当金属线形变成椭圆时,模场主 要分布在长轴两端;当太赫兹波在双金属线中传输时,模场主要分布在两根金属线中间,且距离越远模场面积越小.本研究结合实验与仿真分析方法对单、双金属线 的太赫兹传输特性进行研究,为后续开发高效太赫兹金属波导提供参考.</td></tr><tr><th>日期</th><td>2024</td></tr><tr><th>语言</th><td>zh</td></tr><tr><th>索书号</th><td>11-1958/O4</td></tr><tr><th>卷次</th><td>73</td></tr><tr><th>页码</th><td>138-146</td></tr><tr><th>刊名</th><td>物理学报</td></tr><tr><th>期号</th><td>11</td></tr><tr><th>ISSN</th><td>1000-3290</td></tr><tr><th>添加日期</th><td>2025/5/4 15:40:24</td></tr><tr><th>修改日期</th><td>2025/5/4 15:40:27</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    +   ⛔ No DOI found
+    +   太赫兹
+    +   表面等离激元
+    +   金属线波导
+    +   时域光谱
++   ## 太赫兹时域光谱技术在材料科学领域研究进展
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>宋晨辉</td></tr><tr><th class="author">作者</th><td>孙爽</td></tr><tr><th class="author">作者</th><td>金恺</td></tr><tr><th class="author">作者</th><td>王新柯</td></tr><tr><th class="author">作者</th><td>韩鹏</td></tr><tr><th class="author">作者</th><td>孙文峰</td></tr><tr><th class="author">作者</th><td>叶佳声</td></tr><tr><th class="author">作者</th><td>冯胜飞</td></tr><tr><th class="author">作者</th><td>张岩</td></tr><tr><th>摘要</th><td>太赫兹时域光谱技术是一种研究材料中载流子超快动力学过程及光电导率特性的重要实验手段。近年来，随着材料科学的飞速发展，人们应用 太赫兹时域光谱技术研究了包括二维层状材料、钙钛矿材料和碳基低维材料等新型材料中光生载流子、激子和极化子等粒子及准粒子在皮秒时间尺度上的超快动力学 过程及在太赫兹波段的光电导特性。本文主要介绍近5年来太赫兹时域光谱技术在材料科学领域取得的最新研究进展，并对太赫兹时域光谱技术在材料科学领域的应 用做出展望。</td></tr><tr><th>日期</th><td>2024</td></tr><tr><th>语言</th><td>zh-CN</td></tr><tr><th>文库编目</th><td>CNKI</td></tr><tr><th>网址</th><td><a href="https://link.cnki.net/doi/10.19789/j.1004-9398.2024.02.002">https://link.cnki.net/doi/10.19789/j.1004-9398.2024.02.002</a></td></tr><tr><th>访问时间</th><td>2025/4/4 12:10:09</td></tr><tr><th>其他</th><td>foundation: 国家自然科学基金项目（121774271）； download: 1073 album: 基础科学;工程科技Ⅰ辑;信息科技 CLC: TB30;O441.4 dbcode: CJFQ dbname: CJFDLAST2024 filename: SDSX202402002</td></tr><tr><th>卷次</th><td>45</td></tr><tr><th>页码</th><td>14-26</td></tr><tr><th>刊名</th><td>首都师范大学学报（自然科学版）</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.19789/j.1004-9398.2024.02.002">10.19789/j.1004-9398.2024.02.002</a></td></tr><tr><th>期号</th><td>2</td></tr><tr><th>ISSN</th><td>1004-9398</td></tr><tr><th>添加日期</th><td>2025/4/4 12:10:09</td></tr><tr><th>修改日期</th><td>2025/4/4 12:10:09</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   二维层状材料
+    +   光泵浦太赫兹探测
+    +   太赫兹时域光谱
+    +   碳基低维材料
+    +   钙钛矿材料
+    
+    ### 附件
+    
+    +   Full Text PDF
++   ## 周期极化铌酸锂中光整流THz波辐射
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>张开春</td></tr><tr><th class="author">作者</th><td>刘盛纲</td></tr><tr><th>摘要</th><td>从理论上详细研究飞秒激光在周期极化铌酸锂(PPLN)晶体中由光整流效应产生的THz波辐射.着重研究THz波辐射场的频域场、时域场和频谱宽度的分布.并详细讨论辐射场脉冲持续时间、幅度、频谱宽度随晶体长度和辐射角的变化.</td></tr><tr><th>日期</th><td>2007</td></tr><tr><th>语言</th><td>zh</td></tr><tr><th>索书号</th><td>11-1958/O4</td></tr><tr><th>其他</th><td>CNKICite: 6</td></tr><tr><th>页码</th><td>5258-5262</td></tr><tr><th>刊名</th><td>物理学报</td></tr><tr><th>期号</th><td>9</td></tr><tr><th>ISSN</th><td>1000-3290</td></tr><tr><th>添加日期</th><td>2025/5/1 18:33:20</td></tr><tr><th>修改日期</th><td>2025/5/1 20:28:06</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   ⛔ No DOI found
+    +   光整流
+    +   PPLN
+    +   THz波
+    
+    ### 附件
+    
+    +   周期极化铌酸锂中光整流THz波辐射
++   ## A coding metasurfaces used for wideband radar cross section reduction in terahertz frequencies
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Yan Xin</td></tr><tr><th class="author">作者</th><td>Liang Lan-Ju</td></tr><tr><th class="author">作者</th><td>Zhang Ya-Ting</td></tr><tr><th class="author">作者</th><td>Ding Xin</td></tr><tr><th class="author">作者</th><td>Yao Jian-Quan</td></tr><tr><th class="author">作者</th><td>College of Precision Instrument and Opto-electronics Engineering, Tianjin University, Tianjin 300072, China;</td></tr><tr><th class="author">作者</th><td>School of Opto-Electronic Engineering, Zaozhuang University, Zaozhuang 277160, China</td></tr><tr><th>摘要</th><td>In this paper, we propose a flexible, non-directional lowering scattering 1 bit coding metasurface which can significantly reduce the radar cross section (RCS) within an ultra wide terahertz (THz) frequency band. The total thickness of the coding metasurface is only 40.4 μm. The 1 bit coding metasurface is composed of “0” and “1” elements. And the “0” and “1” elements of metasurface are realized separately by a substrate without any metallic covering and that with a square metallic ring covering, the reflection phase difference of the two elements is about 180 degree in a wide THz frequency range. The theoretical, analytical, and simulation results show that the coding metasurfaces simply manipulate electromagnetic waves by coding the “0” and “1” elements in different sequences. Specific coding sequences result in the far-field scattering patterns varying from single beam to two, three, and numerous beams in THz frequencies. The metasurface with the numerous scattering waves can disperse the reflection into a variety of directions for non-periodic coding sequence way, and in each direction the energy is small based on the energy conservation principle. Full-wave simulation results show that the reflectivity less than -10 dB for coding metasurface can be achieved in a wide frequency range from 1-1.4 THz at normal incidence, and the RCS reduction as compared with a bare metallic plate with the same size is essentially more than 10 dB, in agreement with the bandwidth of reflectivity being less than -10 dB; the maximum reduction can be up to 19 dB. The wideband RCS reduction results are consistent with the bandwidth of 180 degrees phase difference between the two elements “0” and “1”. This wideband characteristic of RCS reduction can be kept up as the coding metasurface is wrapped around a metallic cylinder with a diameter of 4 mm. The presented method opens a new way to control THz waves by coding metasurface, so it is of great application values in stealth, imaging, and broadband communications of THz frequencies.</td></tr><tr><th>日期</th><td>2015</td></tr><tr><th>语言</th><td>zh</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.64.158101">https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.64.158101</a></td></tr><tr><th>访问时间</th><td>2025/4/4 11:10:21</td></tr><tr><th>卷次</th><td>64</td></tr><tr><th>页码</th><td>158101</td></tr><tr><th>刊名</th><td>Acta Physica Sinica</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.7498/aps.64.158101">10.7498/aps.64.158101</a></td></tr><tr><th>期号</th><td>15</td></tr><tr><th>刊名简称</th><td>Acta Phys. Sin.</td></tr><tr><th>ISSN</th><td>1000-3290, 1000-3290</td></tr><tr><th>添加日期</th><td>2025/4/4 11:10:21</td></tr><tr><th>修改日期</th><td>2025/4/4 11:10:21</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## A Framework Development on Big Data Analytics for Terahertz Healthcare
+    
+    <table><tbody><tr><th>条目类型</th><td>图书章节</td></tr><tr><th class="author">作者</th><td>Debashis Das</td></tr><tr><th class="author">作者</th><td>Chinmay Chakraborty</td></tr><tr><th class="author">作者</th><td>Sourav Banerjee</td></tr><tr><th>日期</th><td>2020</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000070">https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000070</a></td></tr><tr><th>访问时间</th><td>2025/4/5 22:29:32</td></tr><tr><th>版权</th><td>https://www.elsevier.com/tdm/userlicense/1.0/</td></tr><tr><th>其他</th><td>DOI: 10.1016/B978-0-12-818556-8.00007-0</td></tr><tr><th>出版社</th><td>Elsevier</td></tr><tr><th>ISBN</th><td>978-0-12-818556-8</td></tr><tr><th>页码</th><td>127-143</td></tr><tr><th>书名</th><td>Terahertz Biomedical and Healthcare Technologies</td></tr><tr><th>添加日期</th><td>2025/4/5 22:29:33</td></tr><tr><th>修改日期</th><td>2025/4/5 22:29:33</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   PDF
++   ## A high power D2O laser optimized for microsecond pulse duration
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>R. Behn</td></tr><tr><th class="author">作者</th><td>I. Kjelberg</td></tr><tr><th class="author">作者</th><td>P. D. Morgan</td></tr><tr><th class="author">作者</th><td>T. Okada</td></tr><tr><th class="author">作者</th><td>M. R. Siegrist</td></tr><tr><th>摘要</th><td>A high power D2O laser, pumped by a single mode CO2 laser, has been optimized to produce 1 μs pulses at 385 μm. Pump energies up to 100 J were available using an e-beam preionized CO2 amplifier at 2.5 atm. Far infrared pulse energies of 140 mJ in multimode and 40 mJ in single mode operation have been obtained from a 4-m unstable resonator. During parametric studies the influence of operating pressure, spatially inhomogeneous pump intensity, resonator feedback as well as saturation effects have been investigated.</td></tr><tr><th>日期</th><td>1983-06-01</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://pubs.aip.org/jap/article/54/6/2995/13787/A-high-power-D2O-laser-optimized-for-microsecond">https://pubs.aip.org/jap/article/54/6/2995/13787/A-high-power-D2O-laser-optimized-for-microsecond</a></td></tr><tr><th>访问时间</th><td>2025/5/2 15:38:40</td></tr><tr><th>卷次</th><td>54</td></tr><tr><th>页码</th><td>2995-3002</td></tr><tr><th>刊名</th><td>Journal of Applied Physics</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1063/1.332502">10.1063/1.332502</a></td></tr><tr><th>期号</th><td>6</td></tr><tr><th>ISSN</th><td>0021-8979, 1089-7550</td></tr><tr><th>添加日期</th><td>2025/5/2 15:38:40</td></tr><tr><th>修改日期</th><td>2025/5/2 16:37:38</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## A journey of terahertz communication: An IRS integration perspective
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Pranali Langde</td></tr><tr><th class="author">作者</th><td>Tapan Kumar Jain</td></tr><tr><th class="author">作者</th><td>Mayur R. Parate</td></tr><tr><th class="author">作者</th><td>Sandeep Kumar Singh</td></tr><tr><th>摘要</th><td>Sixth generation (6G) wireless technology is predicted to bring revolutionary changes to network sensing capabilities and allow for extraordinarily large communication capacities. Because of its unexplored frequency bands, short wavelengths, and bandwidths that provide excellent spatial resolution, the terahertz (THz) frequency range (0.1 THz–10 THz) stands out as a potential enabler. In addition to helping to address the existing spectrum shortage, the enormous bandwidth accessible at THz frequencies can clear the path for the wireless terabit-per-second (Tbps) connectivity needed for 6G networks. This article in contrast to previous surveys concentrates on the difficulties and essential technologies in THz communication. The use of intelligent reflecting surfaces (IRS) in THz communication systems is heavily emphasized. With its capacity to dynamically control electromagnetic waves, IRS technology offers a revolutionary means of addressing issues including excessive path loss and absorption losses related to THz frequencies. In the THz domain, the notion of integrated sensing and communication (ISAC) is also discussed, emphasizing its dual role in enabling data transfer and environmental sensing at the same time. This review attempts to provide a thorough knowledge of the revolutionary influence of these new technologies on future wireless networks by looking at the fundamentals, technological developments, and real-world applications of THz-IRS systems. THz communication integration with IRS and ISAC has the potential to completely transform wireless communication and open the door to incredibly fast, dependable, and intelligent network solutions.</td></tr><tr><th>日期</th><td>02/2025</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>短标题</th><td>A journey of terahertz communication</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/S1874490724002908">https://linkinghub.elsevier.com/retrieve/pii/S1874490724002908</a></td></tr><tr><th>访问时间</th><td>2025/4/4 15:40:34</td></tr><tr><th>卷次</th><td>68</td></tr><tr><th>页码</th><td>102572</td></tr><tr><th>刊名</th><td>Physical Communication</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1016/j.phycom.2024.102572">10.1016/j.phycom.2024.102572</a></td></tr><tr><th>刊名简称</th><td>Physical Communication</td></tr><tr><th>ISSN</th><td>18744907</td></tr><tr><th>添加日期</th><td>2025/4/4 15:40:34</td></tr><tr><th>修改日期</th><td>2025/4/4 15:40:35</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
+    
+    ### 相关
+    
+    +   Terahertz smart devices based on phase change material VO2 and metamaterial graphene that combine thermally adjustable absorption and selective transmission
++   ## A Survey on Machine Learning Techniques for THz Image Analysis
+    
+    <table><tbody><tr><th>条目类型</th><td>图书章节</td></tr><tr><th class="author">作者</th><td>Basabi Chakraborty</td></tr><tr><th class="author">作者</th><td>Rikta Sen</td></tr><tr><th class="author">作者</th><td>Ashis Kumar Mandal</td></tr><tr><th>摘要</th><td>The various machine learning approaches developed for THz image classiﬁcation are described in earlier sections. The information regarding different research works is summarized in Table 9.1.</td></tr><tr><th>日期</th><td>2020</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000094">https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000094</a></td></tr><tr><th>访问时间</th><td>2025/4/5 22:29:40</td></tr><tr><th>版权</th><td>https://www.elsevier.com/tdm/userlicense/1.0/</td></tr><tr><th>其他</th><td>DOI: 10.1016/B978-0-12-818556-8.00009-4</td></tr><tr><th>出版社</th><td>Elsevier</td></tr><tr><th>ISBN</th><td>978-0-12-818556-8</td></tr><tr><th>页码</th><td>167-176</td></tr><tr><th>书名</th><td>Terahertz Biomedical and Healthcare Technologies</td></tr><tr><th>添加日期</th><td>2025/4/5 22:29:40</td></tr><tr><th>修改日期</th><td>2025/4/5 22:29:40</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   PDF
++   ## About the Editors
+    
+    <table><tbody><tr><th>条目类型</th><td>图书章节</td></tr><tr><th>日期</th><td>2020</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/B9780128185568110018">https://linkinghub.elsevier.com/retrieve/pii/B9780128185568110018</a></td></tr><tr><th>访问时间</th><td>2025/4/5 22:29:11</td></tr><tr><th>版权</th><td>https://www.elsevier.com/tdm/userlicense/1.0/</td></tr><tr><th>其他</th><td>DOI: 10.1016/B978-0-12-818556-8.11001-8</td></tr><tr><th>出版社</th><td>Elsevier</td></tr><tr><th>ISBN</th><td>978-0-12-818556-8</td></tr><tr><th>页码</th><td>ix-xi</td></tr><tr><th>书名</th><td>Terahertz Biomedical and Healthcare Technologies</td></tr><tr><th>添加日期</th><td>2025/4/5 22:29:11</td></tr><tr><th>修改日期</th><td>2025/4/5 22:29:12</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   PDF
++   ## Advanced Materials and Structures for Terahertz Engineering
+    
+    <table><tbody><tr><th>条目类型</th><td>图书章节</td></tr><tr><th class="author">作者</th><td>Nilesh Mukherjee</td></tr><tr><th class="author">作者</th><td>Nurnihar Begum</td></tr><tr><th class="author">作者</th><td>P. Soni Reddy</td></tr><tr><th class="author">作者</th><td>Rahul Mondal</td></tr><tr><th class="author">作者</th><td>Sushanta Sarkar</td></tr><tr><th class="author">作者</th><td>Partha Pratim Sarkar</td></tr><tr><th>日期</th><td>2020</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000033">https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000033</a></td></tr><tr><th>访问时间</th><td>2025/4/5 22:29:20</td></tr><tr><th>版权</th><td>https://www.elsevier.com/tdm/userlicense/1.0/</td></tr><tr><th>其他</th><td>DOI: 10.1016/B978-0-12-818556-8.00003-3</td></tr><tr><th>出版社</th><td>Elsevier</td></tr><tr><th>ISBN</th><td>978-0-12-818556-8</td></tr><tr><th>页码</th><td>57-73</td></tr><tr><th>书名</th><td>Terahertz Biomedical and Healthcare Technologies</td></tr><tr><th>添加日期</th><td>2025/4/5 22:29:20</td></tr><tr><th>修改日期</th><td>2025/4/5 22:29:20</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   PDF
++   ## Amalgamation of Machine Learning and Artificial Intelligence for Breast Cancer Detection
+    
+    <table><tbody><tr><th>条目类型</th><td>图书章节</td></tr><tr><th class="author">作者</th><td>Bright Keswani</td></tr><tr><th class="author">作者</th><td>Lokesh Vijay</td></tr><tr><th class="author">作者</th><td>Poonam Keswani</td></tr><tr><th class="author">作者</th><td>Prity Vijay</td></tr><tr><th class="author">作者</th><td>Ambarish G. Mohapatra</td></tr><tr><th>日期</th><td>2020</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000100">https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000100</a></td></tr><tr><th>访问时间</th><td>2025/4/5 22:29:43</td></tr><tr><th>版权</th><td>https://www.elsevier.com/tdm/userlicense/1.0/</td></tr><tr><th>其他</th><td>DOI: 10.1016/B978-0-12-818556-8.00010-0</td></tr><tr><th>出版社</th><td>Elsevier</td></tr><tr><th>ISBN</th><td>978-0-12-818556-8</td></tr><tr><th>页码</th><td>177-193</td></tr><tr><th>书名</th><td>Terahertz Biomedical and Healthcare Technologies</td></tr><tr><th>添加日期</th><td>2025/4/5 22:29:43</td></tr><tr><th>修改日期</th><td>2025/4/5 22:29:43</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   254101\_1\_online
+    +   PDF
++   ## Analysis of surface emitting distributed-feedback quantum cascade laser based on a surface-plasmon waveguide
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Wanhong Guo</td></tr><tr><th class="author">作者</th><td>Quanyong Lu</td></tr><tr><th class="author">作者</th><td>Junqi Liu</td></tr><tr><th class="author">作者</th><td>Wei Zhang</td></tr><tr><th class="author">作者</th><td>Yuchao Jiang</td></tr><tr><th class="author">作者</th><td>Lu Li</td></tr><tr><th class="author">作者</th><td>Lijun Wang</td></tr><tr><th class="author">作者</th><td>Fengqi Liu</td></tr><tr><th class="author">作者</th><td>Zhanguo Wang</td></tr><tr><th>摘要</th><td>An analysis of a surface emitting distributed-feedback quantum cascade laser (DFB QCL) based on a surface-plasmon waveguide is presented. The second-order grating realized by the sole patterning of the top metal provides strong feedback. The analysis is based on a coupled-mode theory derived from exact Floquet–Bloch solutions of the infinite periodic structure. The surface outcoupling efficiency and threshold gain for the optimized device design are 43% and 12 cm–1, respectively, which represent great improvements on the conventional dielectric waveguide based DFB QCL with typical values of 17.5% and 20 cm 1.</td></tr><tr><th>日期</th><td>11/2010</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://iopscience.iop.org/article/10.1088/1674-4926/31/11/114014">https://iopscience.iop.org/article/10.1088/1674-4926/31/11/114014</a></td></tr><tr><th>访问时间</th><td>2025/5/2 18:52:57</td></tr><tr><th>卷次</th><td>31</td></tr><tr><th>页码</th><td>114014</td></tr><tr><th>刊名</th><td>Journal of Semiconductors</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1088/1674-4926/31/11/114014">10.1088/1674-4926/31/11/114014</a></td></tr><tr><th>期号</th><td>11</td></tr><tr><th>刊名简称</th><td>J. Semicond.</td></tr><tr><th>ISSN</th><td>1674-4926</td></tr><tr><th>添加日期</th><td>2025/5/2 18:52:57</td></tr><tr><th>修改日期</th><td>2025/5/2 20:27:04</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## Anaphylactoid reaction: the ultimate allergic emergency
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>C. J. Wolf</td></tr><tr><th class="author">作者</th><td>M. S. Nashed</td></tr><tr><th class="author">作者</th><td>R. W. Smith</td></tr><tr><th>日期</th><td>1979-02</td></tr><tr><th>语言</th><td>eng</td></tr><tr><th>短标题</th><td>Anaphylactoid reaction</td></tr><tr><th>文库编目</th><td>PubMed</td></tr><tr><th>其他</th><td>PMID: 33206</td></tr><tr><th>卷次</th><td>69</td></tr><tr><th>页码</th><td>105-109</td></tr><tr><th>刊名</th><td>Journal of the American Podiatry Association</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.7547/87507315-69-2-105">10.7547/87507315-69-2-105</a></td></tr><tr><th>期号</th><td>2</td></tr><tr><th>刊名简称</th><td>J Am Podiatry Assoc</td></tr><tr><th>ISSN</th><td>0003-0538</td></tr><tr><th>添加日期</th><td>2025/5/1 16:17:53</td></tr><tr><th>修改日期</th><td>2025/5/1 16:17:54</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    +   Humans
+    +   Analgesics, Opioid
+    +   Anaphylaxis
+    +   Anesthetics
+    +   Anti-Bacterial Agents
+    +   Contrast Media
+    +   Emergencies
+    +   Laryngeal Edema
+    
+    ### 附件
+    
+    +   PubMed entry
++   ## Anti-deformation low loss double pentagon nested terahertz hollow core fiber
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Shuai Yang</td></tr><tr><th class="author">作者</th><td>Xinzhi Sheng</td></tr><tr><th class="author">作者</th><td>Guozhong Zhao</td></tr><tr><th class="author">作者</th><td>Shuqin Lou</td></tr><tr><th class="author">作者</th><td>Jiaoyan Guo</td></tr><tr><th>摘要</th><td>A double pentagonal nested terahertz (THz) hollow core ﬁber (HCF) fabricated by a 3D printer is proposed in this paper, which is an improvement to our previous work. The proposed ﬁber eﬀectively reduces ﬁber size while preserving the mechanical stability and transmission characteristics. Fiber parameters are optimized by numerical simulation, and the sample fabricated by the 3D printer is measured by a THz time domain spectroscopy system. Experimental results show an average transmission loss of 0.11 cm−1 in the range of 0.2 to 1 THz. And the minimum transmission loss is only 0.012 cm−1 at 0.922 THz. The transmission loss is even several orders of magnitude lower than that of the bulked photosensitive resin. In addition, the ﬁber shows high tolerance for bending.</td></tr><tr><th>日期</th><td>05/2020</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/S1068520020300754">https://linkinghub.elsevier.com/retrieve/pii/S1068520020300754</a></td></tr><tr><th>访问时间</th><td>2025/5/2 16:37:39</td></tr><tr><th>卷次</th><td>56</td></tr><tr><th>页码</th><td>102199</td></tr><tr><th>刊名</th><td>Optical Fiber Technology</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1016/j.yofte.2020.102199">10.1016/j.yofte.2020.102199</a></td></tr><tr><th>刊名简称</th><td>Optical Fiber Technology</td></tr><tr><th>ISSN</th><td>10685200</td></tr><tr><th>添加日期</th><td>2025/5/2 16:37:39</td></tr><tr><th>修改日期</th><td>2025/5/2 17:00:04</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## \[Biochemical studies on camomile components/III. In vitro studies about the antipeptic activity of (--)-alpha-bisabolol (author's transl)\]
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>O. Isaac</td></tr><tr><th class="author">作者</th><td>K. Thiemer</td></tr><tr><th>摘要</th><td>(--)-alpha-Bisabolol has a primary antipeptic action depending on dosage, which is not caused by an alteration of the pH-value. The proteolytic activity of pepsin is reduced by 50 percent through addition of bisabolol in the ratio of 1/0.5. The antipeptic action of bisabolol only occurs in case of direct contact. In case of a previous contact with the substrate, the inhibiting effect is lost.</td></tr><tr><th>日期</th><td>1975-09</td></tr><tr><th>语言</th><td>ger</td></tr><tr><th>文库编目</th><td>PubMed</td></tr><tr><th>其他</th><td>PMID: 21</td></tr><tr><th>卷次</th><td>25</td></tr><tr><th>页码</th><td>1352-1354</td></tr><tr><th>刊名</th><td>Arzneimittel-Forschung</td></tr><tr><th>期号</th><td>9</td></tr><tr><th>刊名简称</th><td>Arzneimittelforschung</td></tr><tr><th>ISSN</th><td>0004-4172</td></tr><tr><th>添加日期</th><td>2025/5/1 16:17:53</td></tr><tr><th>修改日期</th><td>2025/5/1 16:17:54</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    +   Hydrogen-Ion Concentration
+    +   Dose-Response Relationship, Drug
+    +   Hemoglobins
+    +   In Vitro Techniques
+    +   Methods
+    +   Pepsin A
+    +   Plants, Medicinal
+    +   Sesquiterpenes
+    +   Spectrophotometry, Ultraviolet
+    +   Trichloroacetic Acid
+    +   Tyrosine
+    
+    ### 附件
+    
+    +   PubMed entry
++   ## Biological effects of terahertz waves
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Xiao-Yu Peng</td></tr><tr><th class="author">作者</th><td>Huan Zhou</td></tr><tr><th class="author">作者</th><td>Center for Terahertz Technology Research, Chongqing Institute of Green and Intelligent Technology, Chinese Academy of Sciences, Chongqing 400714, China</td></tr><tr><th class="author">作者</th><td>Chongqing School, University of Chinese Academy of Sciences (UCAS Chongqing), Chongqing 400714, China</td></tr><tr><th class="author">作者</th><td>Chongqing University, Chongqing 400044, China</td></tr><tr><th>摘要</th><td>&lt;bold/&gt; There are numerous applications of terahertz (THz) waves in biomedicine due to their properties that can be absorbed strongly by water in biological systems and resonant with biological macromolecules and weak interactions among them in the biological systems. Though there is no direct ionization damage to the biological tissues due to their low photon energy, the THz waves can give rise to a series of biological effects on the biological cells and tissues with the increase of the intensity of the THz beam. Different irradiation conditions such as the different parameters of the THz waves and the different biological systems will result in different biological effects, including mainly the thermal effects and non-thermal effects. In this paper, we discuss first the physical mechanisms of these two kinds of effects, then introduce the existing main THz sources suitable for studying the biological effects, and summarize the typical biological effects in detail and the research progress in this field. Finally we prospect the potential applications and challenges of the THz wave biological effects.</td></tr><tr><th>日期</th><td>2021</td></tr><tr><th>语言</th><td>zh</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.70.20211996">https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.70.20211996</a></td></tr><tr><th>访问时间</th><td>2025/5/4 15:54:54</td></tr><tr><th>卷次</th><td>70</td></tr><tr><th>页码</th><td>240701</td></tr><tr><th>刊名</th><td>Acta Physica Sinica</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.7498/aps.70.20211996">10.7498/aps.70.20211996</a></td></tr><tr><th>期号</th><td>24</td></tr><tr><th>刊名简称</th><td>Acta Phys. Sin.</td></tr><tr><th>ISSN</th><td>1000-3290, 1000-3290</td></tr><tr><th>添加日期</th><td>2025/5/4 15:54:54</td></tr><tr><th>修改日期</th><td>2025/5/4 15:54:57</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
++   ## Biological effects of terahertz waves
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Xiao-Yu Peng</td></tr><tr><th class="author">作者</th><td>Huan Zhou</td></tr><tr><th class="author">作者</th><td>Center for Terahertz Technology Research, Chongqing Institute of Green and Intelligent Technology, Chinese Academy of Sciences, Chongqing 400714, China</td></tr><tr><th class="author">作者</th><td>Chongqing School, University of Chinese Academy of Sciences (UCAS Chongqing), Chongqing 400714, China</td></tr><tr><th class="author">作者</th><td>Chongqing University, Chongqing 400044, China</td></tr><tr><th>摘要</th><td>&lt;bold/&gt; There are numerous applications of terahertz (THz) waves in biomedicine due to their properties that can be absorbed strongly by water in biological systems and resonant with biological macromolecules and weak interactions among them in the biological systems. Though there is no direct ionization damage to the biological tissues due to their low photon energy, the THz waves can give rise to a series of biological effects on the biological cells and tissues with the increase of the intensity of the THz beam. Different irradiation conditions such as the different parameters of the THz waves and the different biological systems will result in different biological effects, including mainly the thermal effects and non-thermal effects. In this paper, we discuss first the physical mechanisms of these two kinds of effects, then introduce the existing main THz sources suitable for studying the biological effects, and summarize the typical biological effects in detail and the research progress in this field. Finally we prospect the potential applications and challenges of the THz wave biological effects.</td></tr><tr><th>日期</th><td>2021</td></tr><tr><th>语言</th><td>zh</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.70.20211996">https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.70.20211996</a></td></tr><tr><th>访问时间</th><td>2025/5/4 15:55:41</td></tr><tr><th>卷次</th><td>70</td></tr><tr><th>页码</th><td>240701</td></tr><tr><th>刊名</th><td>Acta Physica Sinica</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.7498/aps.70.20211996">10.7498/aps.70.20211996</a></td></tr><tr><th>期号</th><td>24</td></tr><tr><th>刊名简称</th><td>Acta Phys. Sin.</td></tr><tr><th>ISSN</th><td>1000-3290, 1000-3290</td></tr><tr><th>添加日期</th><td>2025/5/4 15:55:41</td></tr><tr><th>修改日期</th><td>2025/5/4 15:55:42</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   PDF
++   ## Bovine mannosidosis--a model lysosomal storage disease
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>R. D. Jolly</td></tr><tr><th class="author">作者</th><td>K. G. Thompson</td></tr><tr><th class="author">作者</th><td>B. G. Winchester</td></tr><tr><th>日期</th><td>1975</td></tr><tr><th>语言</th><td>eng</td></tr><tr><th>文库编目</th><td>PubMed</td></tr><tr><th>其他</th><td>PMID: 100</td></tr><tr><th>卷次</th><td>11</td></tr><tr><th>页码</th><td>273-278</td></tr><tr><th>刊名</th><td>Birth Defects Original Article Series</td></tr><tr><th>期号</th><td>6</td></tr><tr><th>刊名简称</th><td>Birth Defects Orig Artic Ser</td></tr><tr><th>ISSN</th><td>0547-6844</td></tr><tr><th>添加日期</th><td>2025/4/14 14:55:03</td></tr><tr><th>修改日期</th><td>2025/4/14 14:55:03</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    +   Animals
+    +   Hydrogen-Ion Concentration
+    +   Blood
+    +   Carbohydrate Metabolism, Inborn Errors
+    +   Cattle
+    +   Cattle Diseases
+    +   Disease Models, Animal
+    +   Heterozygote
+    +   Lymphocytes
+    +   Lysosomes
+    +   Mannose
+    +   Mannosidases
+    
+    ### 附件
+    
+    +   PubMed entry
++   ## Buffer gases to increase the efficiency of an optically pumped far infrared D&lt;inf&gt;2&lt;/inf&gt;O laser
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>R. Behn</td></tr><tr><th class="author">作者</th><td>M.-A. Dupertuis</td></tr><tr><th class="author">作者</th><td>I. Kjelberg</td></tr><tr><th class="author">作者</th><td>P. Krug</td></tr><tr><th class="author">作者</th><td>S. Salito</td></tr><tr><th class="author">作者</th><td>M. Siegrist</td></tr><tr><th>摘要</th><td>The effects of buffer gas additives on the performance of an optically pumped D 2 0 laser operating at 385 pm have been investigated both experimentally and by numerical simulation. Three gases, sulphur hexafluoride, carbon tetrafluoride, and n-hexane, were found to produce an increase of up to 40 percent in the pumping efficiency, as well as significant lengthening of the far infrared pulse. Under optimum conditions, 2.6 J in a 1 ps long pulse have been obtained. The buffer gases are shown to eliminate the vibrational deexcitation bottleneck, which in pure D 2 0 leads to an accumulation of population in the upper vibrational level and, hence, a reduction in the efficiency of absorption of the pump beam. Comparison of the observed buffer gas effects with the predictions of a numerical simulation code based on a rate equation model gives information about the constants for vibrational and rotational relaxation rates due toD20-D20 and D,O-buff er gas collisions.</td></tr><tr><th>日期</th><td>08/1985</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="http://ieeexplore.ieee.org/document/1072785/">http://ieeexplore.ieee.org/document/1072785/</a></td></tr><tr><th>访问时间</th><td>2025/5/2 15:39:37</td></tr><tr><th>版权</th><td>https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html</td></tr><tr><th>卷次</th><td>21</td></tr><tr><th>页码</th><td>1278-1285</td></tr><tr><th>刊名</th><td>IEEE Journal of Quantum Electronics</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1109/JQE.1985.1072785">10.1109/JQE.1985.1072785</a></td></tr><tr><th>期号</th><td>8</td></tr><tr><th>刊名简称</th><td>IEEE J. Quantum Electron.</td></tr><tr><th>ISSN</th><td>0018-9197</td></tr><tr><th>添加日期</th><td>2025/5/2 15:39:37</td></tr><tr><th>修改日期</th><td>2025/5/2 16:04:40</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## Cascaded high-gradient terahertz-driven acceleration of relativistic electron beams
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Hanxun Xu</td></tr><tr><th class="author">作者</th><td>Lixin Yan</td></tr><tr><th class="author">作者</th><td>Yingchao Du</td></tr><tr><th class="author">作者</th><td>Wenhui Huang</td></tr><tr><th class="author">作者</th><td>Qili Tian</td></tr><tr><th class="author">作者</th><td>Renkai Li</td></tr><tr><th class="author">作者</th><td>Yifan Liang</td></tr><tr><th class="author">作者</th><td>Shaohong Gu</td></tr><tr><th class="author">作者</th><td>Jiaru Shi</td></tr><tr><th class="author">作者</th><td>Chuanxiang Tang</td></tr><tr><th>日期</th><td>06/2021</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://www.nature.com/articles/s41566-021-00779-x">https://www.nature.com/articles/s41566-021-00779-x</a></td></tr><tr><th>访问时间</th><td>2025/4/4 10:51:09</td></tr><tr><th>卷次</th><td>15</td></tr><tr><th>页码</th><td>426-430</td></tr><tr><th>刊名</th><td>Nature Photonics</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1038/s41566-021-00779-x">10.1038/s41566-021-00779-x</a></td></tr><tr><th>期号</th><td>6</td></tr><tr><th>刊名简称</th><td>Nat. Photonics</td></tr><tr><th>ISSN</th><td>1749-4885, 1749-4893</td></tr><tr><th>添加日期</th><td>2025/4/4 10:51:09</td></tr><tr><th>修改日期</th><td>2025/4/4 10:51:09</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## Contributors
+    
+    <table><tbody><tr><th>条目类型</th><td>图书章节</td></tr><tr><th class="author">作者</th><td>Amit Banerjee</td></tr><tr><th class="author">作者</th><td>Sourav Banerjee</td></tr><tr><th class="author">作者</th><td>Suranjana Banerjee</td></tr><tr><th class="author">作者</th><td>Tanmoy Basu</td></tr><tr><th class="author">作者</th><td>Nurnihar Begum</td></tr><tr><th class="author">作者</th><td>Basabi Chakraborty</td></tr><tr><th class="author">作者</th><td>Chinmay Chakraborty</td></tr><tr><th class="author">作者</th><td>Sulagna Chatterjee</td></tr><tr><th class="author">作者</th><td>Debashis Das</td></tr><tr><th class="author">作者</th><td>Subal Kar</td></tr><tr><th class="author">作者</th><td>Bright Keswani</td></tr><tr><th class="author">作者</th><td>Poonam Keswani</td></tr><tr><th class="author">作者</th><td>Ilya Krasnikov</td></tr><tr><th class="author">作者</th><td>Yogeenth Kumaresan</td></tr><tr><th class="author">作者</th><td>Ashis Kumar Mandal</td></tr><tr><th class="author">作者</th><td>Ambarish G. Mohapatra</td></tr><tr><th class="author">作者</th><td>Rahul Mondal</td></tr><tr><th class="author">作者</th><td>M. Mukherjee</td></tr><tr><th class="author">作者</th><td>Nilesh Mukherjee</td></tr><tr><th class="author">作者</th><td>Yutaka Oyama</td></tr><tr><th class="author">作者</th><td>Praveen Kumar Poola</td></tr><tr><th class="author">作者</th><td>Srinivasa Rao Ragam</td></tr><tr><th class="author">作者</th><td>Megha Rathi</td></tr><tr><th class="author">作者</th><td>P. Soni Reddy</td></tr><tr><th class="author">作者</th><td>Partha Pratim Sarkar</td></tr><tr><th class="author">作者</th><td>Sushanta Sarkar</td></tr><tr><th class="author">作者</th><td>Rikta Sen</td></tr><tr><th class="author">作者</th><td>Aleksei Seteikin</td></tr><tr><th class="author">作者</th><td>Saumitra Vajandar</td></tr><tr><th class="author">作者</th><td>Lokesh Vijay</td></tr><tr><th class="author">作者</th><td>Prity Vijay</td></tr><tr><th class="author">作者</th><td>Pu Zhao</td></tr><tr><th>日期</th><td>2020</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/B9780128185568010028">https://linkinghub.elsevier.com/retrieve/pii/B9780128185568010028</a></td></tr><tr><th>访问时间</th><td>2025/4/5 22:29:01</td></tr><tr><th>版权</th><td>https://www.elsevier.com/tdm/userlicense/1.0/</td></tr><tr><th>其他</th><td>DOI: 10.1016/B978-0-12-818556-8.01002-8</td></tr><tr><th>出版社</th><td>Elsevier</td></tr><tr><th>ISBN</th><td>978-0-12-818556-8</td></tr><tr><th>页码</th><td>v-vii</td></tr><tr><th>书名</th><td>Terahertz Biomedical and Healthcare Technologies</td></tr><tr><th>添加日期</th><td>2025/4/5 22:29:01</td></tr><tr><th>修改日期</th><td>2025/4/5 22:29:01</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   PDF
++   ## Copyright
+    
+    <table><tbody><tr><th>条目类型</th><td>图书章节</td></tr><tr><th>日期</th><td>2020</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/B9780128185568120014">https://linkinghub.elsevier.com/retrieve/pii/B9780128185568120014</a></td></tr><tr><th>访问时间</th><td>2025/4/5 22:29:04</td></tr><tr><th>版权</th><td>https://www.elsevier.com/tdm/userlicense/1.0/</td></tr><tr><th>其他</th><td>DOI: 10.1016/B978-0-12-818556-8.12001-4</td></tr><tr><th>出版社</th><td>Elsevier</td></tr><tr><th>ISBN</th><td>978-0-12-818556-8</td></tr><tr><th>页码</th><td>iv</td></tr><tr><th>书名</th><td>Terahertz Biomedical and Healthcare Technologies</td></tr><tr><th>添加日期</th><td>2025/4/5 22:29:04</td></tr><tr><th>修改日期</th><td>2025/4/5 22:29:04</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   PDF
++   ## Development of a special electrode for continuous subcutaneous pH measurement in the infant scalp
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>O. Stamm</td></tr><tr><th class="author">作者</th><td>U. Latscha</td></tr><tr><th class="author">作者</th><td>P. Janecek</td></tr><tr><th class="author">作者</th><td>A. Campana</td></tr><tr><th>摘要</th><td>Using a combined special glass electrode it is possible to monitor pH ratios and pH variation in the subcutaneous tissue of the infant scalp continuously. Tests on a normal sample of newborn babies immediately after birth showed a significant correlation between tissue pH and capillary blood pH, with the trend of pH variation being broadly similar in both measurement media.</td></tr><tr><th>日期</th><td>1976-01-15</td></tr><tr><th>语言</th><td>eng</td></tr><tr><th>文库编目</th><td>PubMed</td></tr><tr><th>其他</th><td>PMID: 2012</td></tr><tr><th>卷次</th><td>124</td></tr><tr><th>页码</th><td>193-195</td></tr><tr><th>刊名</th><td>American Journal of Obstetrics and Gynecology</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1016/s0002-9378(16)33297-5">10.1016/s0002-9378(16)33297-5</a></td></tr><tr><th>期号</th><td>2</td></tr><tr><th>刊名简称</th><td>Am J Obstet Gynecol</td></tr><tr><th>ISSN</th><td>0002-9378</td></tr><tr><th>添加日期</th><td>2025/4/14 14:55:03</td></tr><tr><th>修改日期</th><td>2025/4/14 14:55:03</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    +   Hydrogen-Ion Concentration
+    +   Electrodes
+    +   Fetal Blood
+    +   Glass
+    +   Humans
+    +   Infant, Newborn
+    +   Monitoring, Physiologic
+    +   Scalp
+    
+    ### 附件
+    
+    +   PubMed entry
++   ## Dynamical Electric and Magnetic Metamaterial Response at Terahertz Frequencies
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>W. J. Padilla</td></tr><tr><th class="author">作者</th><td>A. J. Taylor</td></tr><tr><th class="author">作者</th><td>C. Highstrete</td></tr><tr><th class="author">作者</th><td>Mark Lee</td></tr><tr><th class="author">作者</th><td>R. D. Averitt</td></tr><tr><th>日期</th><td>2006-3-13</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://link.aps.org/doi/10.1103/PhysRevLett.96.107401">https://link.aps.org/doi/10.1103/PhysRevLett.96.107401</a></td></tr><tr><th>访问时间</th><td>2025/4/4 16:12:18</td></tr><tr><th>版权</th><td>http://link.aps.org/licenses/aps-default-license</td></tr><tr><th>卷次</th><td>96</td></tr><tr><th>页码</th><td>107401</td></tr><tr><th>刊名</th><td>Physical Review Letters</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1103/PhysRevLett.96.107401">10.1103/PhysRevLett.96.107401</a></td></tr><tr><th>期号</th><td>10</td></tr><tr><th>刊名简称</th><td>Phys. Rev. Lett.</td></tr><tr><th>ISSN</th><td>0031-9007, 1079-7114</td></tr><tr><th>添加日期</th><td>2025/4/4 16:12:18</td></tr><tr><th>修改日期</th><td>2025/4/4 16:12:18</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   Full Text PDF
++   ## Effect of sodium nitrate loading on electrolyte transport by the renal tubule
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>T. Kahn</td></tr><tr><th class="author">作者</th><td>J. Bosch</td></tr><tr><th class="author">作者</th><td>M. F. Levitt</td></tr><tr><th class="author">作者</th><td>M. H. Goldstein</td></tr><tr><th>摘要</th><td>Effects of sodium nitrate were compared with sodium chloride loading on transport of electrolytes by the nephron. Maximal levels of free water clearance/clomerular filtration rate (CH2O/GFR) averaged 8.4% with nitrate loading and 14.4% with saline loading. Since ethacrynic acid and chlorothiazide exert their major natriuretic effect in the distal nephron, the increment in Na ad Cl reabsorbed beyond the proximal tubule. The administration of these agents resulted in an increase in fractional sodium excretion (CNa/GFR) of 21.1%, urinary sodium excretion (UNaV) of 1,126 mueq/min, and urinary chloride excretion (UClV) of 848 mueq/min during nitrate loading compared with an increase in CNa/GFR of 37.6%, UNaV of 2,362 mueq/min, and UClV of 2,397 mueq/min during saline loading. The smaller diuretic-induced increment in Na and Cl excretion in the nitrate studies suggests, as do the hydrated studies, that less Cl and Na are reabsorbed in the distal nephron during nitrate than saline loading. At every level of UNaV, fractional bicarbonate reabsorption was higher, urine pH was lower, and urinary potassium excretion (UKV) was higher in the nitrate studies. Thus, compared with saline loading, sodium nitrate decreases chloride and sodium reabsorption in the distal nephron. The higher hydrogen and potassium secretion in the nitrate studies may be consequent to the decreased ability of the distal nephron to reabsorb chloride.</td></tr><tr><th>日期</th><td>1975-09</td></tr><tr><th>语言</th><td>eng</td></tr><tr><th>文库编目</th><td>PubMed</td></tr><tr><th>其他</th><td>PMID: 2016</td></tr><tr><th>卷次</th><td>229</td></tr><tr><th>页码</th><td>746-753</td></tr><tr><th>刊名</th><td>The American Journal of Physiology</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1152/ajplegacy.1975.229.3.746">10.1152/ajplegacy.1975.229.3.746</a></td></tr><tr><th>期号</th><td>3</td></tr><tr><th>刊名简称</th><td>Am J Physiol</td></tr><tr><th>ISSN</th><td>0002-9513</td></tr><tr><th>添加日期</th><td>2025/5/1 16:17:53</td></tr><tr><th>修改日期</th><td>2025/5/1 16:17:55</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    +   Animals
+    +   Bicarbonates
+    +   Hydrogen-Ion Concentration
+    +   Potassium
+    +   Biological Transport
+    +   Chlorides
+    +   Chlorothiazide
+    +   Diuresis
+    +   Dogs
+    +   Electrolytes
+    +   Ethacrynic Acid
+    +   Glomerular Filtration Rate
+    +   Kidney Tubules
+    +   Nitrates
+    +   Sodium
+    +   Sodium Chloride
+    +   Urine
+    
+    ### 附件
+    
+    +   PubMed entry
++   ## Efficient extraction of high power THz radiation generated by an ultra-relativistic electron beam in a dielectric loaded waveguide
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>S. Antipov</td></tr><tr><th class="author">作者</th><td>S. V. Baryshev</td></tr><tr><th class="author">作者</th><td>R. Kostin</td></tr><tr><th class="author">作者</th><td>S. Baturin</td></tr><tr><th class="author">作者</th><td>J. Qiu</td></tr><tr><th class="author">作者</th><td>C. Jing</td></tr><tr><th class="author">作者</th><td>C. Swinson</td></tr><tr><th class="author">作者</th><td>M. Fedurin</td></tr><tr><th class="author">作者</th><td>D. Wang</td></tr><tr><th>摘要</th><td>We have measured an intense THz radiation produced by a sub-picosecond, relativistic electron bunch in a dielectric loaded waveguide. For efficient THz pulse extraction the dielectric loaded waveguide end was cut at an angle. For an appropriate choice of angle cut such antenna converts the TM01 mode excited in the waveguide into a free-space fundamental Gauss-Hermite mode propagating at an angle with respect to the electron beam trajectory. Simulations show that more than 95% of energy can be extracted using such a simple approach. More than 40 oscillations of about 170 picosecond long 0.48 THz signal were explicitly measured with an interferometer and 10 micro Joules of energy per pulse, as determined with a calorimetric energy meter, were delivered outside the electron beamline to an area suitable for THz experiments.</td></tr><tr><th>日期</th><td>2016-10-03</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://pubs.aip.org/apl/article/109/14/142901/32544/Efficient-extraction-of-high-power-THz-radiation">https://pubs.aip.org/apl/article/109/14/142901/32544/Efficient-extraction-of-high-power-THz-radiation</a></td></tr><tr><th>访问时间</th><td>2025/5/2 16:58:00</td></tr><tr><th>卷次</th><td>109</td></tr><tr><th>页码</th><td>142901</td></tr><tr><th>刊名</th><td>Applied Physics Letters</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1063/1.4963762">10.1063/1.4963762</a></td></tr><tr><th>期号</th><td>14</td></tr><tr><th>ISSN</th><td>0003-6951, 1077-3118</td></tr><tr><th>添加日期</th><td>2025/5/2 16:58:01</td></tr><tr><th>修改日期</th><td>2025/5/2 18:45:55</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## Emission of Electromagnetic Pulses from Laser Wakeﬁelds through Linear Mode Conversion
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Zheng-Ming Sheng</td></tr><tr><th class="author">作者</th><td>Kunioki Mima</td></tr><tr><th class="author">作者</th><td>Jie Zhang</td></tr><tr><th class="author">作者</th><td>Heiji Sanuki</td></tr><tr><th>日期</th><td>2005</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>Zotero</td></tr><tr><th>添加日期</th><td>2025/4/30 20:46:02</td></tr><tr><th>修改日期</th><td>2025/4/30 20:46:02</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   PDF
++   ## ENHANCED, HIGH POWER OPERATION OF THE
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>D K Mansfield</td></tr><tr><th class="author">作者</th><td>E Horlbeck</td></tr><tr><th class="author">作者</th><td>C L Bennett</td></tr><tr><th class="author">作者</th><td>R Chouinard</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>Zotero</td></tr><tr><th>添加日期</th><td>2025/5/2 15:44:34</td></tr><tr><th>修改日期</th><td>2025/5/2 16:43:54</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   ⛔ No DOI found
+    
+    ### 附件
+    
+    +   PDF
++   ## Experimental study of terahertz radiation driven by femtosecond ultraintense laser
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Tian-Ze Wang</td></tr><tr><th class="author">作者</th><td>Hong-Yi Lei</td></tr><tr><th class="author">作者</th><td>Fang-Zheng Sun</td></tr><tr><th class="author">作者</th><td>Dan Wang</td></tr><tr><th class="author">作者</th><td>Guo-Qian Liao</td></tr><tr><th class="author">作者</th><td>Yu-Tong Li</td></tr><tr><th class="author">作者</th><td>Beijing National Laboratory for Condensed Matter Physics, Institute of Physics, Chinese Academy of Sciences, Beijing 100190, China</td></tr><tr><th class="author">作者</th><td>College of Materials Sciences and Opto-Electronic Technology, University of Chinese Academy of Sciences, Beijing 100049, China</td></tr><tr><th class="author">作者</th><td>School of Physical Sciences, University of Chinese Academy of Sciences, Beijing 100049, China</td></tr><tr><th class="author">作者</th><td>Songshan Lake Materials Laboratory, Dongguan 523808, China</td></tr><tr><th>摘要</th><td>Powerful terahertz (THz) radiation sources are crucial to the development of THz science. High-energy strong-field THz pulses have many significant applications such as in the ultrafast control of matter and the THz-driven electron acceleration. In recent years, ultraintense laser-plasma interactions have been proposed as a novel approach to strong-field THz generation. In this paper, the experimental results are presented about the generation of THz radiation from a solid foil irradiated by a 10-TW femtosecond laser pulse. The THz energy as a function of laser energy and defocusing amount is studied. It is found that both the THz energy and the laser-to-THz conversion efficiency increase nonlinearly with the laser energy increasing. At maximum laser energy ~270 mJ, the measured THz pulse energy is 458 μJ, corresponding to a laser-to-THz energy conversion efficiency of 0.17%. No indication of saturation is observed in the experiment, implying that a stronger THz radiation could be achieved with higher laser energy. By simultaneously monitoring the backward scattered laser light spectrum, it is qualitatively understood that the observed THz radiation as a function of laser energy and laser defocusing distance is closely related to the electron heating mechanisms at different laser intensities. The THz spectrum and polarization are characterized by using different band-pass filers and a wire-grid polarizer, respectively. The THz radiation covers an ultrabroad band ranging from 0.2 THz to 30 THz, and shows a radially polarized distribution. By fitting the measured THz spectrum with the theory of coherent transition radiation, the THz pulse duration is inferred to be about 30 fs. At the THz focal spot of ~1 mm in size, the THz field strength is evaluated to be 3.68 GV/m. Such a strong-field THz source will enable the study of extreme THz-matter interactions.</td></tr><tr><th>日期</th><td>2021</td></tr><tr><th>语言</th><td>zh</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.70.20210518">https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.70.20210518</a></td></tr><tr><th>访问时间</th><td>2025/4/4 10:27:06</td></tr><tr><th>卷次</th><td>70</td></tr><tr><th>页码</th><td>085205</td></tr><tr><th>刊名</th><td>Acta Physica Sinica</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.7498/aps.70.20210518">10.7498/aps.70.20210518</a></td></tr><tr><th>期号</th><td>8</td></tr><tr><th>刊名简称</th><td>Acta Phys. Sin.</td></tr><tr><th>ISSN</th><td>1000-3290, 1000-3290</td></tr><tr><th>添加日期</th><td>2025/4/4 10:27:06</td></tr><tr><th>修改日期</th><td>2025/4/4 10:27:06</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## Femtosecond Dynamics of Fast Electron Pulses in Relativistic Laser-Foil Interactions
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Guoqian Liao</td></tr><tr><th class="author">作者</th><td>Fangzheng Sun</td></tr><tr><th class="author">作者</th><td>Hongyi Lei</td></tr><tr><th class="author">作者</th><td>Tianze Wang</td></tr><tr><th class="author">作者</th><td>Dan Wang</td></tr><tr><th class="author">作者</th><td>Yanyu Wei</td></tr><tr><th class="author">作者</th><td>Feng Liu</td></tr><tr><th class="author">作者</th><td>Xuan Wang</td></tr><tr><th class="author">作者</th><td>Yutong Li</td></tr><tr><th class="author">作者</th><td>Jie Zhang</td></tr><tr><th>日期</th><td>2024-4-10</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://link.aps.org/doi/10.1103/PhysRevLett.132.155001">https://link.aps.org/doi/10.1103/PhysRevLett.132.155001</a></td></tr><tr><th>访问时间</th><td>2025/4/4 09:12:14</td></tr><tr><th>卷次</th><td>132</td></tr><tr><th>页码</th><td>155001</td></tr><tr><th>刊名</th><td>Physical Review Letters</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1103/PhysRevLett.132.155001">10.1103/PhysRevLett.132.155001</a></td></tr><tr><th>期号</th><td>15</td></tr><tr><th>刊名简称</th><td>Phys. Rev. Lett.</td></tr><tr><th>ISSN</th><td>0031-9007, 1079-7114</td></tr><tr><th>添加日期</th><td>2025/4/4 09:12:14</td></tr><tr><th>修改日期</th><td>2025/4/4 09:12:14</td></tr></tbody></table>
+    
+    ### 笔记：
+    
+    +   “Fast electrons have been identified as an essential core underpinning many applications that have attracted tremendous attention, such as, to name just a few, the generation of radiation sources at different frequency bands from microwaves \[2\] to x rays \[3\], the sheath acceleration of ion beams \[4\], the rapid isochoric heating of matter \[5\], and the fast ignition approach for inertial fusion energy \[6\].” (Liao 等, 2024, p. 1)
+        
+    +   “For example, a unique feature of ultraintense laser-foil interactions is the so-called “recirculation” process” (Liao 等, 2024, p. 1)
+        
+    +   # Femtosecond Dynamics of Fast Electron Pulses in Relativistic Laser-Foil Interactions
+        
+        期刊：Physical Review Letters  
+        DOI：[10.1103/PhysRevLett.132.155001
+        
+        ### 🖊 摘要
+        
+        ### 💡创新点
+        
+        ### 🔬方法
+        
+        ### 📉实验
+        
+        ### 📕相关文献
+        
+        ](https://doi.org/10.1103/PhysRevLett.132.155001)
+        
+    +   # Femtosecond Dynamics of Fast Electron Pulses In Relativistic Laser-Foil Interactions
+        
+    
+    ### 附件
+    
+    +   PDF
++   ## Femtosecond-laser-driven wire-guided helical undulator for intense terahertz radiation
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Ye Tian</td></tr><tr><th class="author">作者</th><td>Jiansheng Liu</td></tr><tr><th class="author">作者</th><td>Yafeng Bai</td></tr><tr><th class="author">作者</th><td>Shiyi Zhou</td></tr><tr><th class="author">作者</th><td>Haiyi Sun</td></tr><tr><th class="author">作者</th><td>Weiwei Liu</td></tr><tr><th class="author">作者</th><td>Jiayu Zhao</td></tr><tr><th class="author">作者</th><td>Ruxin Li</td></tr><tr><th class="author">作者</th><td>Zhizhan Xu</td></tr><tr><th>日期</th><td>04/2017</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>Crossref</td></tr><tr><th>网址</th><td><a href="https://www.nature.com/articles/nphoton.2017.16">https://www.nature.com/articles/nphoton.2017.16</a></td></tr><tr><th>访问时间</th><td>2025/5/1 12:21:00</td></tr><tr><th>版权</th><td>http://www.springer.com/tdm</td></tr><tr><th>其他</th><td>Publisher: Springer Science and Business Media LLC</td></tr><tr><th>卷次</th><td>11</td></tr><tr><th>页码</th><td>242-246</td></tr><tr><th>刊名</th><td>Nature Photonics</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1038/nphoton.2017.16">10.1038/nphoton.2017.16</a></td></tr><tr><th>期号</th><td>4</td></tr><tr><th>刊名简称</th><td>Nature Photon</td></tr><tr><th>ISSN</th><td>1749-4885, 1749-4893</td></tr><tr><th>添加日期</th><td>2025/5/1 12:21:00</td></tr><tr><th>修改日期</th><td>2025/5/1 15:23:06</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## Front Matter
+    
+    <table><tbody><tr><th>条目类型</th><td>图书章节</td></tr><tr><th>日期</th><td>2020</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/B9780128185568010016">https://linkinghub.elsevier.com/retrieve/pii/B9780128185568010016</a></td></tr><tr><th>访问时间</th><td>2025/4/5 22:29:06</td></tr><tr><th>版权</th><td>https://www.elsevier.com/tdm/userlicense/1.0/</td></tr><tr><th>其他</th><td>DOI: 10.1016/B978-0-12-818556-8.01001-6</td></tr><tr><th>出版社</th><td>Elsevier</td></tr><tr><th>ISBN</th><td>978-0-12-818556-8</td></tr><tr><th>页码</th><td>iii</td></tr><tr><th>书名</th><td>Terahertz Biomedical and Healthcare Technologies</td></tr><tr><th>添加日期</th><td>2025/4/5 22:29:06</td></tr><tr><th>修改日期</th><td>2025/4/5 22:29:06</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   PDF
++   ## Generation of 13.9‐mJ Terahertz Radiation from Lithium Niobate Materials
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Xiaojun Wu</td></tr><tr><th class="author">作者</th><td>Deyin Kong</td></tr><tr><th class="author">作者</th><td>Sibo Hao</td></tr><tr><th class="author">作者</th><td>Yushan Zeng</td></tr><tr><th class="author">作者</th><td>Xieqiu Yu</td></tr><tr><th class="author">作者</th><td>Baolong Zhang</td></tr><tr><th class="author">作者</th><td>Mingcong Dai</td></tr><tr><th class="author">作者</th><td>Shaojie Liu</td></tr><tr><th class="author">作者</th><td>Jiaqi Wang</td></tr><tr><th class="author">作者</th><td>Zejun Ren</td></tr><tr><th class="author">作者</th><td>Sai Chen</td></tr><tr><th class="author">作者</th><td>Jianhua Sang</td></tr><tr><th class="author">作者</th><td>Kang Wang</td></tr><tr><th class="author">作者</th><td>Dongdong Zhang</td></tr><tr><th class="author">作者</th><td>Zhongkai Liu</td></tr><tr><th class="author">作者</th><td>Jiayan Gui</td></tr><tr><th class="author">作者</th><td>Xiaojun Yang</td></tr><tr><th class="author">作者</th><td>Yi Xu</td></tr><tr><th class="author">作者</th><td>Yuxin Leng</td></tr><tr><th class="author">作者</th><td>Yutong Li</td></tr><tr><th class="author">作者</th><td>Liwei Song</td></tr><tr><th class="author">作者</th><td>Ye Tian</td></tr><tr><th class="author">作者</th><td>Ruxin Li</td></tr><tr><th>摘要</th><td>AbstractExtremely strong‐field terahertz (THz) radiation in free space has compelling applications in nonequilibrium condensed matter state regulation, all‐optical THz electron acceleration and manipulation, THz biological effects, etc. However, these practical applications are constrained by the absence of high‐intensity, high‐efficiency, high‐beam‐quality, and stable solid‐state THz light sources. Here, the generation of single‐cycle 13.9‐mJ extreme THz pulses from cryogenically cooled lithium niobate crystals and a 1.2% energy conversion efficiency from 800&nbsp;nm to THz are demonstrated experimentally using the tilted pulse‐front technique driven by a home‐built 30‐fs, 1.2‐Joule Ti:sapphire laser amplifier. The focused peak electric field strength is estimated to be 7.5&nbsp;MV&nbsp;cm−1. A record of 1.1‐mJ THz single‐pulse energy at a 450 mJ pump at room temperature is produced and observed that the self‐phase modulation of the optical pump can induce THz saturation behavior from the crystals in the substantially nonlinear pump regime. This study lays the foundation for the generation of sub‐Joule THz radiation from lithium niobate crystals and will inspire more innovations in extreme THz science and applications.</td></tr><tr><th>日期</th><td>06/2023</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>Crossref</td></tr><tr><th>网址</th><td><a href="https://onlinelibrary.wiley.com/doi/10.1002/adma.202208947">https://onlinelibrary.wiley.com/doi/10.1002/adma.202208947</a></td></tr><tr><th>访问时间</th><td>2025/5/1 18:40:23</td></tr><tr><th>版权</th><td>http://onlinelibrary.wiley.com/termsAndConditions#vor</td></tr><tr><th>其他</th><td>Publisher: Wiley</td></tr><tr><th>卷次</th><td>35</td></tr><tr><th>刊名</th><td>Advanced Materials</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1002/adma.202208947">10.1002/adma.202208947</a></td></tr><tr><th>期号</th><td>23</td></tr><tr><th>ISSN</th><td>0935-9648, 1521-4095</td></tr><tr><th>添加日期</th><td>2025/5/1 18:40:23</td></tr><tr><th>修改日期</th><td>2025/5/2 15:13:20</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## High-field half-cycle terahertz radiation from relativistic laser interaction with thin solid targets
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>W. J. Ding</td></tr><tr><th class="author">作者</th><td>Z. M. Sheng</td></tr><tr><th class="author">作者</th><td>W. S. Koh</td></tr><tr><th>摘要</th><td>It is found that half-cycle terahertz (THz) pulses with the peak field over 100 MV/cm can be produced in ultrashort intense laser interactions with thin solid targets. These THz pulses are shown to emit from both the front and rear sides of the solid target and are attributed to the coherent transition radiation by laser-produced ultrashort fast electron bunches. After the primary THz pulses, subsequent secondary half-cycle pulses are generated while some refluxing electrons cross the vacuum-target interfaces. Since such strong THz radiation is well synchronized with the driving lasers, it is particularly suitable for applications in various pump-probe experiments.</td></tr><tr><th>日期</th><td>2013-11-11</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>Crossref</td></tr><tr><th>网址</th><td><a href="https://pubs.aip.org/apl/article/103/20/204107/130793/High-field-half-cycle-terahertz-radiation-from">https://pubs.aip.org/apl/article/103/20/204107/130793/High-field-half-cycle-terahertz-radiation-from</a></td></tr><tr><th>访问时间</th><td>2025/5/1 15:14:01</td></tr><tr><th>其他</th><td>Publisher: AIP Publishing</td></tr><tr><th>卷次</th><td>103</td></tr><tr><th>刊名</th><td>Applied Physics Letters</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1063/1.4831684">10.1063/1.4831684</a></td></tr><tr><th>期号</th><td>20</td></tr><tr><th>ISSN</th><td>0003-6951, 1077-3118</td></tr><tr><th>添加日期</th><td>2025/5/1 15:14:01</td></tr><tr><th>修改日期</th><td>2025/5/1 16:36:28</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## Highly efficient terahertz radiation from a thin foil irradiated by a high-contrast laser pulse
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Z. Jin</td></tr><tr><th class="author">作者</th><td>H. B. Zhuo</td></tr><tr><th class="author">作者</th><td>T. Nakazawa</td></tr><tr><th class="author">作者</th><td>J. H. Shin</td></tr><tr><th class="author">作者</th><td>S. Wakamatsu</td></tr><tr><th class="author">作者</th><td>N. Yugami</td></tr><tr><th class="author">作者</th><td>T. Hosokai</td></tr><tr><th class="author">作者</th><td>D. B. Zou</td></tr><tr><th class="author">作者</th><td>M. Y. Yu</td></tr><tr><th class="author">作者</th><td>Z. M. Sheng</td></tr><tr><th class="author">作者</th><td>R. Kodama</td></tr><tr><th>日期</th><td>2016-09-21</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>Crossref</td></tr><tr><th>网址</th><td><a href="https://link.aps.org/doi/10.1103/PhysRevE.94.033206">https://link.aps.org/doi/10.1103/PhysRevE.94.033206</a></td></tr><tr><th>访问时间</th><td>2025/5/1 16:18:31</td></tr><tr><th>版权</th><td>http://link.aps.org/licenses/aps-default-license</td></tr><tr><th>其他</th><td>Publisher: American Physical Society (APS)</td></tr><tr><th>卷次</th><td>94</td></tr><tr><th>刊名</th><td>Physical Review E</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1103/physreve.94.033206">10.1103/physreve.94.033206</a></td></tr><tr><th>期号</th><td>3</td></tr><tr><th>刊名简称</th><td>Phys. Rev. E</td></tr><tr><th>ISSN</th><td>2470-0045, 2470-0053</td></tr><tr><th>添加日期</th><td>2025/5/1 16:18:31</td></tr><tr><th>修改日期</th><td>2025/5/1 18:14:41</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   已接受版本
++   ## Hollow Core Inhibited Coupled Antiresonant Terahertz Fiber: A Numerical and Experimental Study
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Jakeya Sultana</td></tr><tr><th class="author">作者</th><td>Md. Saiful Islam</td></tr><tr><th class="author">作者</th><td>Cristiano M. B. Cordeiro</td></tr><tr><th class="author">作者</th><td>Md. Selim Habib</td></tr><tr><th class="author">作者</th><td>Alex Dinovitser</td></tr><tr><th class="author">作者</th><td>Mayank Kaushik</td></tr><tr><th class="author">作者</th><td>Brian W.-H. Ng</td></tr><tr><th class="author">作者</th><td>Heike Ebendorff-Heidepriem</td></tr><tr><th class="author">作者</th><td>Derek Abbott</td></tr><tr><th>摘要</th><td>In this article, a hollow core antiresonant photonic crystal ﬁber is analyzed for terahertz applications. A numerical analysis of the proposed ﬁber is ﬁrst carried out to minimize coupling between the core and cladding modes. The modeling of the scaled-up and inhibited coupling ﬁber is carried out by means of a ﬁnite element method, which is then demonstrated using a Zeonex ﬁlament ﬁber, fabricated by fused deposition modeling of 3-D printing technology. The simulation is carried out to analyze both the transmission and possibility of refractometric sensing, whereas the experimental analysis is carried out using terahertz time-domain spectroscopy, and supports our numerical ﬁndings, illustrating how the proposed ﬁbers can be used for low-loss transmission of terahertz waves. The simplicity of the proposed ﬁber structures facilitates fabrication for a number of different transmission and sensing applications in the terahertz range.</td></tr><tr><th>日期</th><td>5/2021</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>短标题</th><td>Hollow Core Inhibited Coupled Antiresonant Terahertz Fiber</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://ieeexplore.ieee.org/document/9226615/">https://ieeexplore.ieee.org/document/9226615/</a></td></tr><tr><th>访问时间</th><td>2025/5/2 16:41:38</td></tr><tr><th>版权</th><td>https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html</td></tr><tr><th>卷次</th><td>11</td></tr><tr><th>页码</th><td>245-260</td></tr><tr><th>刊名</th><td>IEEE Transactions on Terahertz Science and Technology</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1109/TTHZ.2020.3031727">10.1109/TTHZ.2020.3031727</a></td></tr><tr><th>期号</th><td>3</td></tr><tr><th>刊名简称</th><td>IEEE Trans. THz Sci. Technol.</td></tr><tr><th>ISSN</th><td>2156-342X, 2156-3446</td></tr><tr><th>添加日期</th><td>2025/5/2 16:41:38</td></tr><tr><th>修改日期</th><td>2025/5/2 18:15:07</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## Improvement of the output power of optical pumping THz lasers based on the theory of vibrational relaxation
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Zhang Hui-Yun</td></tr><tr><th class="author">作者</th><td>Liu Meng</td></tr><tr><th class="author">作者</th><td>Zhang Yu-Ping</td></tr><tr><th class="author">作者</th><td>He Zhi-Hong</td></tr><tr><th class="author">作者</th><td>Shen Duan-Long</td></tr><tr><th class="author">作者</th><td>Wu Zhi-Xin</td></tr><tr><th class="author">作者</th><td>Yin Yi-Heng</td></tr><tr><th class="author">作者</th><td>Li De-Hua</td></tr><tr><th class="author">作者</th><td>Qingdao Key Laboratory of Terahertz Technology, College of Science, Shandong University of Science and Technology, Qingdao 266510, China;</td></tr><tr><th class="author">作者</th><td>Department of Electronic Engineering, University of Electronic Science and Technology of China, Zhongshan Institute, Zhongshan 528402, China</td></tr><tr><th>摘要</th><td>Based on the semiclassical density matrix theory and vibrational relaxation theory, the present paper studies the influences on optical pumping THz lasers output power due to adding an appropriate proportion of buffer gas and appropriately reducing the waveguide core diameter. Results prove that adding appropriate proportion of buffer gas or appropriately reducing the waveguide core diameter can increase the output of light intensity of THz laser. Optimizing the two parameters at the same time can further improve the efficiency of pumping laser energy into THz laser energy, extend the effective activation area of the working cavity, put off the appearance of the pumping saturation effect, and increase the output power of the THz lasers. This research may have a guiding significance for the THz optical pumping laser in improving energy conversion efficiency, and increasing the output power so as to bring about the miniaturization of THz optical pumping laser.</td></tr><tr><th>日期</th><td>2014</td></tr><tr><th>语言</th><td>zh</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.63.010702">https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.63.010702</a></td></tr><tr><th>访问时间</th><td>2025/5/2 15:16:23</td></tr><tr><th>卷次</th><td>63</td></tr><tr><th>页码</th><td>010702</td></tr><tr><th>刊名</th><td>Acta Physica Sinica</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.7498/aps.63.010702">10.7498/aps.63.010702</a></td></tr><tr><th>期号</th><td>1</td></tr><tr><th>刊名简称</th><td>Acta Phys. Sin.</td></tr><tr><th>ISSN</th><td>1000-3290, 1000-3290</td></tr><tr><th>添加日期</th><td>2025/5/2 15:16:23</td></tr><tr><th>修改日期</th><td>2025/5/2 16:52:08</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## Index
+    
+    <table><tbody><tr><th>条目类型</th><td>图书章节</td></tr><tr><th>日期</th><td>2020</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/B9780128185568200013">https://linkinghub.elsevier.com/retrieve/pii/B9780128185568200013</a></td></tr><tr><th>访问时间</th><td>2025/4/5 22:29:09</td></tr><tr><th>版权</th><td>https://www.elsevier.com/tdm/userlicense/1.0/</td></tr><tr><th>其他</th><td>DOI: 10.1016/B978-0-12-818556-8.20001-3</td></tr><tr><th>出版社</th><td>Elsevier</td></tr><tr><th>ISBN</th><td>978-0-12-818556-8</td></tr><tr><th>页码</th><td>241-247</td></tr><tr><th>书名</th><td>Terahertz Biomedical and Healthcare Technologies</td></tr><tr><th>添加日期</th><td>2025/4/5 22:29:09</td></tr><tr><th>修改日期</th><td>2025/4/5 22:29:09</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   PDF
++   ## Medical Imaging, Artificial Intelligence, Internet of Things, Wearable Devices in Terahertz Healthcare Technologies
+    
+    <table><tbody><tr><th>条目类型</th><td>图书章节</td></tr><tr><th class="author">作者</th><td>Amit Banerjee</td></tr><tr><th class="author">作者</th><td>Chinmay Chakraborty</td></tr><tr><th class="author">作者</th><td>Megha Rathi</td></tr><tr><th>日期</th><td>2020</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000082">https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000082</a></td></tr><tr><th>访问时间</th><td>2025/4/5 22:29:36</td></tr><tr><th>版权</th><td>https://www.elsevier.com/tdm/userlicense/1.0/</td></tr><tr><th>其他</th><td>DOI: 10.1016/B978-0-12-818556-8.00008-2</td></tr><tr><th>出版社</th><td>Elsevier</td></tr><tr><th>ISBN</th><td>978-0-12-818556-8</td></tr><tr><th>页码</th><td>145-165</td></tr><tr><th>书名</th><td>Terahertz Biomedical and Healthcare Technologies</td></tr><tr><th>添加日期</th><td>2025/4/5 22:29:36</td></tr><tr><th>修改日期</th><td>2025/4/5 22:29:37</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   PDF
++   ## Milliwatt-Class MHz Repetition-Rate THz Source Driven by a sub-100 fs High-Power Thin-Disk Laser
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>F Meyer</td></tr><tr><th class="author">作者</th><td>N Hekmat</td></tr><tr><th class="author">作者</th><td>T Vogel</td></tr><tr><th class="author">作者</th><td>A Omar</td></tr><tr><th class="author">作者</th><td>S Mansourzadeh</td></tr><tr><th class="author">作者</th><td>F Fobbe</td></tr><tr><th class="author">作者</th><td>M Hoffmann</td></tr><tr><th class="author">作者</th><td>Y Wang</td></tr><tr><th class="author">作者</th><td>C J Saraceno</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>Zotero</td></tr><tr><th>添加日期</th><td>2025/5/1 20:23:43</td></tr><tr><th>修改日期</th><td>2025/5/2 15:16:21</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   ❓ Multiple DOI
+    
+    ### 附件
+    
+    +   Multiple DOIs found
+    +   PDF
++   ## Observation of acceleration and deceleration in gigaelectron-volt-per-metre gradient dielectric wakefield accelerators
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>B. D. O’Shea</td></tr><tr><th class="author">作者</th><td>G. Andonian</td></tr><tr><th class="author">作者</th><td>S. K. Barber</td></tr><tr><th class="author">作者</th><td>K. L. Fitzmorris</td></tr><tr><th class="author">作者</th><td>S. Hakimi</td></tr><tr><th class="author">作者</th><td>J. Harrison</td></tr><tr><th class="author">作者</th><td>P. D. Hoang</td></tr><tr><th class="author">作者</th><td>M. J. Hogan</td></tr><tr><th class="author">作者</th><td>B. Naranjo</td></tr><tr><th class="author">作者</th><td>O. B. Williams</td></tr><tr><th class="author">作者</th><td>V. Yakimenko</td></tr><tr><th class="author">作者</th><td>J. B. Rosenzweig</td></tr><tr><th>摘要</th><td>Abstract There is urgent need to develop new acceleration techniques capable of exceeding gigaelectron-volt-per-metre (GeV m −1 ) gradients in order to enable future generations of both light sources and high-energy physics experiments. To address this need, short wavelength accelerators based on wakefields, where an intense relativistic electron beam radiates the demanded fields directly into the accelerator structure or medium, are currently under intense investigation. One such wakefield based accelerator, the dielectric wakefield accelerator, uses a dielectric lined-waveguide to support a wakefield used for acceleration. Here we show gradients of 1.347±0.020 GeV m −1 using a dielectric wakefield accelerator of 15 cm length, with sub-millimetre transverse aperture, by measuring changes of the kinetic state of relativistic electron beams. We follow this measurement by demonstrating accelerating gradients of 320±17 MeV m −1 . Both measurements improve on previous measurements by and order of magnitude and show promise for dielectric wakefield accelerators as sources of high-energy electrons.</td></tr><tr><th>日期</th><td>2016-09-14</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://www.nature.com/articles/ncomms12763">https://www.nature.com/articles/ncomms12763</a></td></tr><tr><th>访问时间</th><td>2025/5/2 16:53:38</td></tr><tr><th>卷次</th><td>7</td></tr><tr><th>页码</th><td>12763</td></tr><tr><th>刊名</th><td>Nature Communications</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1038/ncomms12763">10.1038/ncomms12763</a></td></tr><tr><th>期号</th><td>1</td></tr><tr><th>刊名简称</th><td>Nat Commun</td></tr><tr><th>ISSN</th><td>2041-1723</td></tr><tr><th>添加日期</th><td>2025/5/2 16:53:38</td></tr><tr><th>修改日期</th><td>2025/5/2 18:29:20</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## Observation of Gigawatt-Class THz Pulses from a Compact Laser-Driven Particle Accelerator
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>A Gopal</td></tr><tr><th class="author">作者</th><td>S Herzer</td></tr><tr><th class="author">作者</th><td>A Schmidt</td></tr><tr><th class="author">作者</th><td>P Singh</td></tr><tr><th class="author">作者</th><td>A Reinhard</td></tr><tr><th class="author">作者</th><td>W Ziegler</td></tr><tr><th class="author">作者</th><td>D Brommel</td></tr><tr><th class="author">作者</th><td>A Karmakar</td></tr><tr><th class="author">作者</th><td>P Gibbon</td></tr><tr><th class="author">作者</th><td>U Dillner</td></tr><tr><th class="author">作者</th><td>T May</td></tr><tr><th class="author">作者</th><td>H-G Meyer</td></tr><tr><th class="author">作者</th><td>G G Paulus</td></tr><tr><th>日期</th><td>2013</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>Zotero</td></tr><tr><th>添加日期</th><td>2025/4/30 20:19:50</td></tr><tr><th>修改日期</th><td>2025/4/30 20:19:51</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   PDF
++   ## Observation of Terahertz Emission from a Laser-Plasma Accelerated Electron Bunch Crossing a Plasma-Vacuum Boundary
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>W. P. Leemans</td></tr><tr><th class="author">作者</th><td>C. G. R. Geddes</td></tr><tr><th class="author">作者</th><td>J. Faure</td></tr><tr><th class="author">作者</th><td>Cs. Tóth</td></tr><tr><th class="author">作者</th><td>J. Van Tilborg</td></tr><tr><th class="author">作者</th><td>C. B. Schroeder</td></tr><tr><th class="author">作者</th><td>E. Esarey</td></tr><tr><th class="author">作者</th><td>G. Fubiani</td></tr><tr><th class="author">作者</th><td>D. Auerbach</td></tr><tr><th class="author">作者</th><td>B. Marcelis</td></tr><tr><th class="author">作者</th><td>M. A. Carnahan</td></tr><tr><th class="author">作者</th><td>R. A. Kaindl</td></tr><tr><th class="author">作者</th><td>J. Byrd</td></tr><tr><th class="author">作者</th><td>M. C. Martin</td></tr><tr><th>日期</th><td>2003-08-14</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>Crossref</td></tr><tr><th>网址</th><td><a href="https://link.aps.org/doi/10.1103/PhysRevLett.91.074802">https://link.aps.org/doi/10.1103/PhysRevLett.91.074802</a></td></tr><tr><th>访问时间</th><td>2025/5/1 14:37:03</td></tr><tr><th>版权</th><td>http://link.aps.org/licenses/aps-default-license</td></tr><tr><th>其他</th><td>Publisher: American Physical Society (APS)</td></tr><tr><th>卷次</th><td>91</td></tr><tr><th>刊名</th><td>Physical Review Letters</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1103/physrevlett.91.074802">10.1103/physrevlett.91.074802</a></td></tr><tr><th>期号</th><td>7</td></tr><tr><th>刊名简称</th><td>Phys. Rev. Lett.</td></tr><tr><th>ISSN</th><td>0031-9007, 1079-7114</td></tr><tr><th>添加日期</th><td>2025/5/1 14:37:03</td></tr><tr><th>修改日期</th><td>2025/5/1 15:24:30</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## Optimization of semi-insulating surface-plasmon waveguides within terahertz QCL's using computational models
+    
+    <table><tbody><tr><th>条目类型</th><td>会议论文</td></tr><tr><th class="author">作者</th><td>Christopher Baird</td></tr><tr><th class="editor">编辑</th><td>Mehdi Anwar</td></tr><tr><th class="editor">编辑</th><td>Nibir K. Dhar</td></tr><tr><th class="author">作者</th><td>Bryan Crompton</td></tr><tr><th class="author">作者</th><td>Philip Slingerland</td></tr><tr><th class="editor">编辑</th><td>Thomas W. Crowe</td></tr><tr><th class="author">作者</th><td>Robert Giles</td></tr><tr><th class="author">作者</th><td>William E. Nixon</td></tr><tr><th>日期</th><td>2010-4-23</td></tr><tr><th>语言</th><td>en-US</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.855819">http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.855819</a></td></tr><tr><th>访问时间</th><td>2025/5/2 18:28:30</td></tr><tr><th>地点</th><td>Orlando, Florida</td></tr><tr><th>页码</th><td>767109</td></tr><tr><th>会议名称</th><td>SPIE Defense, Security, and Sensing</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1117/12.855819">10.1117/12.855819</a></td></tr><tr><th>添加日期</th><td>2025/5/2 18:28:30</td></tr><tr><th>修改日期</th><td>2025/5/2 19:21:56</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## Porous waveguide facilitated low divergence quantum cascade laser
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Wen Yin</td></tr><tr><th class="author">作者</th><td>Quanyong Lu</td></tr><tr><th class="author">作者</th><td>Wanfeng Liu</td></tr><tr><th class="author">作者</th><td>Jinchuan Zhang</td></tr><tr><th class="author">作者</th><td>Lijun Wang</td></tr><tr><th class="author">作者</th><td>Junqi Liu</td></tr><tr><th class="author">作者</th><td>Lu Li</td></tr><tr><th class="author">作者</th><td>Fengqi Liu</td></tr><tr><th class="author">作者</th><td>Zhanguo Wang</td></tr><tr><th>摘要</th><td>A quantum cascade laser with a porous waveguide structure emitting at 4.5 m is reported. A branchlike porous structure filled with metal material was fabricated on both sides of the laser ridge by an electrochemical etching process. In contrast to the common ridge waveguide laser, devices with a porous structure give rather better beam quality. Utilizing this porous structure as a high-order mode absorber, the device exhibited fundamental transverse mode emission with a nearly diffraction limited far-field beam divergence angle of 4.9ı.</td></tr><tr><th>日期</th><td>06/2011</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://iopscience.iop.org/article/10.1088/1674-4926/32/6/064008">https://iopscience.iop.org/article/10.1088/1674-4926/32/6/064008</a></td></tr><tr><th>访问时间</th><td>2025/5/2 18:48:12</td></tr><tr><th>卷次</th><td>32</td></tr><tr><th>页码</th><td>064008</td></tr><tr><th>刊名</th><td>Journal of Semiconductors</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1088/1674-4926/32/6/064008">10.1088/1674-4926/32/6/064008</a></td></tr><tr><th>期号</th><td>6</td></tr><tr><th>刊名简称</th><td>J. Semicond.</td></tr><tr><th>ISSN</th><td>1674-4926</td></tr><tr><th>添加日期</th><td>2025/5/2 18:48:12</td></tr><tr><th>修改日期</th><td>2025/5/2 20:27:03</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## Prospects in Medical Applications of Terahertz Waves
+    
+    <table><tbody><tr><th>条目类型</th><td>图书章节</td></tr><tr><th class="author">作者</th><td>Amit Banerjee</td></tr><tr><th class="author">作者</th><td>Saumitra Vajandar</td></tr><tr><th class="author">作者</th><td>Tanmoy Basu</td></tr><tr><th>日期</th><td>2020</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000136">https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000136</a></td></tr><tr><th>访问时间</th><td>2025/4/5 22:28:59</td></tr><tr><th>版权</th><td>https://www.elsevier.com/tdm/userlicense/1.0/</td></tr><tr><th>其他</th><td>DOI: 10.1016/B978-0-12-818556-8.00013-6</td></tr><tr><th>出版社</th><td>Elsevier</td></tr><tr><th>ISBN</th><td>978-0-12-818556-8</td></tr><tr><th>页码</th><td>225-239</td></tr><tr><th>书名</th><td>Terahertz Biomedical and Healthcare Technologies</td></tr><tr><th>添加日期</th><td>2025/4/5 22:28:59</td></tr><tr><th>修改日期</th><td>2025/4/5 22:28:59</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   PDF
++   ## Recent developments in terahertz quantum cascade lasers for practical applications
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Liang Gao</td></tr><tr><th class="author">作者</th><td>Chao Feng</td></tr><tr><th class="author">作者</th><td>Xian Zhao</td></tr><tr><th>摘要</th><td>Terahertz (THz) quantum cascade laser (QCL) is an electrically pumped unipolar photonic device in which light emission takes place due to electronic transitions between subbands formed by multiple strongly coupled quantum wells. THz QCL is arguably the most promising solid-state source to realize various THz applications, such as high-resolution spectroscopy, real-time imaging, chemical and biological sensing, and high-speed wireless communication. To date, THz QCLs have covered emitting frequency from 1.2 to 5.4 THz when operating without the assistance of an external magnetic ﬁeld. The highest output power is in hundreds milliwatt and watt levels continuousmode and pulsed-mode operations, respectively. THz QCLbased local oscillators have been implemented in astronomy for the identiﬁcation of atoms and ions. However, there are also limitations, including under room-temperature operation, large divergent beam, narrow single-mode frequency tuning range, incomplete polarization control, and narrowrange frequency comb operation that hinder the widespread applications of THz QCLs. Continuous eﬀorts have been made to improve those THz QCL properties in order to satisfy the requirements of diﬀerent THz applications. This report will review the key output characteristic developments of THz QCLs in the past few years, which aim to speed up THz QCLs toward practical applications.</td></tr><tr><th>日期</th><td>2023-09-01</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://www.degruyter.com/document/doi/10.1515/ntrev-2023-0115/html">https://www.degruyter.com/document/doi/10.1515/ntrev-2023-0115/html</a></td></tr><tr><th>访问时间</th><td>2025/5/2 18:43:49</td></tr><tr><th>版权</th><td>http://creativecommons.org/licenses/by/4.0</td></tr><tr><th>卷次</th><td>12</td></tr><tr><th>页码</th><td>20230115</td></tr><tr><th>刊名</th><td>Nanotechnology Reviews</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1515/ntrev-2023-0115">10.1515/ntrev-2023-0115</a></td></tr><tr><th>期号</th><td>1</td></tr><tr><th>ISSN</th><td>2191-9097</td></tr><tr><th>添加日期</th><td>2025/5/2 18:43:50</td></tr><tr><th>修改日期</th><td>2025/5/2 20:26:33</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## \[Relation between fluorescence and circular dichroism of the complex of the fluorescence probe 4-dimethylaminochalcone with serum albumin\]
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>G. E. Dobretsov</td></tr><tr><th class="author">作者</th><td>I. G. Kharitonenkov</td></tr><tr><th class="author">作者</th><td>V. E. Mishiev</td></tr><tr><th class="author">作者</th><td>Iu A. Vladimirov</td></tr><tr><th>摘要</th><td>The fluorescence probe(4-dimethylaminochalcone; DMH) was noncovalently linked to human serum albumin (HSA). The variation of pH was due to serum albumin structural changes, which was determined in terms of DMH and HSA fluorescence and CD spectra. Considerable changes of fluorescence and CD spectra were observed at pH 8 and 10, where there is ionization of two more recently titrated tyrosin residues. It is assumed that these two tyrosine residues are in binding region and quench the fluorescence of DMH between pH 4 to 8. Quenching disappears if these residues are ionized (pH greater than 8) or if the protein undergoes the N -F transition (pH less than 4).</td></tr><tr><th>日期</th><td>1975</td></tr><tr><th>语言</th><td>rus</td></tr><tr><th>文库编目</th><td>PubMed</td></tr><tr><th>其他</th><td>PMID: 94</td></tr><tr><th>卷次</th><td>20</td></tr><tr><th>页码</th><td>581-585</td></tr><tr><th>刊名</th><td>Biofizika</td></tr><tr><th>期号</th><td>4</td></tr><tr><th>刊名简称</th><td>Biofizika</td></tr><tr><th>ISSN</th><td>0006-3029</td></tr><tr><th>添加日期</th><td>2025/5/1 16:17:53</td></tr><tr><th>修改日期</th><td>2025/5/1 16:17:54</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    +   Hydrogen-Ion Concentration
+    +   Humans
+    +   Chalcone
+    +   Circular Dichroism
+    +   Propiophenones
+    +   Serum Albumin
+    +   Spectrometry, Fluorescence
+    
+    ### 附件
+    
+    +   PubMed entry
++   ## Research progress of terahertz liquid crystal materials and devices
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Lei Wang</td></tr><tr><th class="author">作者</th><td>Rui-Wen Xiao</td></tr><tr><th class="author">作者</th><td>Shi-Jun Ge</td></tr><tr><th class="author">作者</th><td>Zhi-Xiong Shen</td></tr><tr><th class="author">作者</th><td>Peng Lü</td></tr><tr><th class="author">作者</th><td>Wei Hu</td></tr><tr><th class="author">作者</th><td>Yan-Qing Lu</td></tr><tr><th class="author">作者</th><td>College of Electronic and Optical Engineering and College of Microelectronics, Nanjing University of Posts and Telecommunications, Nanjing 210023, China</td></tr><tr><th class="author">作者</th><td>National Laboratory of Solid State Microstructures, Collaborative Innovation Center of Advanced Microstructures and College of Engineering and Applied Sciences, Nanjing University, Nanjing 210093, China</td></tr><tr><th>摘要</th><td>Liquid crystal (LC) is an excellent tunable functional material which can be controlled by the external stimulus such as electric field, magnetic field and temperature. Terahertz (THz) radiation in a frequency range of 0.1−10.0 THz, has enormous advantages such as a low photon energy, sensitivity to crystal lattice vibration, magnetic spins, hydrogen bonds, intermolecular interaction, and water, and high transparency to non-conducting materials. The THz technology, therefore, has great potential in a diverse range of applications from spectroscopy, security screening to biomedical technology and high-speed wireless communication. But the development of high-performance LC based tunable THz functional devices is still in its infancy stage. The dispersion of LC refractive index induces a comparatively low birefringence in the THz regime. The lack of transparent electrodes makes the electric tuning of LCs difficult to achieve. To achieve certain modulations requires a very thick THz layer, leading to several disadvantages such as high operating voltage, slow response and poor pre-alignment. In this paper, we first present the research progress of large birefringence LCs in THz range. A room-temperature nematic LC NJU-LDn-4 with an average birefringence greater than 0.3 in a frequency range from 0.5 to 2.5 THz is shown in detail. This kind of LC can remarkably reduce the required cell gap, thus reducing the operating voltage and response time. Then we summarize varieties of conventional THz devices based on LC. Many electrodes are used for THz range. Graphene which can be used as a perfect transparent electrode material in THz band is proposed. Not only tunable transmissive but also reflective THz waveplates are introduced. The thickness of the LC layer of the reflective one can be reduced to ~10% of that needed for the same phase shift at a given frequency in a transmissive waveplate. The same tunability as that in the transmissive type just needs half the thickness. We also introduce that LC can generate THz vortex beam based on a photopatterned large birefringence LC. In the area of LC based versatile THz metamaterial devices, the adjacent units of a metasurface layer, such as a fishnet or grating, are usually connected to each other which may cause low-quality (&lt;i&gt;Q&lt;/i&gt;) factor and polarization sensitivity, which is undesirable. We emphasize a graphene-assisted high-efficiency tunable THz metamaterial absorber. Few-layer porous graphene is integrated onto the surface of a metasurface layer to provide a uniform static electric field to efficiently control the LC, thereby enabling flexible metamaterial designs. The THz far-field and near-field with large modulation and fast response are realized. A magnetically and electrically polarization-tunable terahertz emitter that integrates a ferromagnetic heterostructure and the large-birefringence liquid crystals is also demonstrated to be able to generate broadband THz radiation and control the polarization of THz waves perfectly as well as LC based THz reflectarray. Last but not least, a temperature-supersensitive cholesteric LC used for THz detection is shown. It can not only measure the beam profiles but also detect the power values of THz waves generated from a nonlinear crystal pumped by a table-top laser. Quantitative visualization based on not only the thermochromic but also the thermal diffusion effect, can be used conveniently and effectively at room temperature. In this review, we summarize the latest progress of liquid crystal materials and components in THz and discuss the possible prospects of the combination of liquid crystal technology and THz technology. We envision that LCs will play a unique role in THz sources, THz functional devices and THz detectors.</td></tr><tr><th>日期</th><td>2019</td></tr><tr><th>语言</th><td>zh</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.68.20182275">https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.68.20182275</a></td></tr><tr><th>访问时间</th><td>2025/4/4 11:31:08</td></tr><tr><th>卷次</th><td>68</td></tr><tr><th>页码</th><td>084205</td></tr><tr><th>刊名</th><td>Acta Physica Sinica</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.7498/aps.68.20182275">10.7498/aps.68.20182275</a></td></tr><tr><th>期号</th><td>8</td></tr><tr><th>刊名简称</th><td>Acta Phys. Sin.</td></tr><tr><th>ISSN</th><td>1000-3290, 1000-3290</td></tr><tr><th>添加日期</th><td>2025/4/4 11:31:08</td></tr><tr><th>修改日期</th><td>2025/4/4 11:31:08</td></tr></tbody></table>
+    
+    ### 笔记：
+    
+    ### 附件
+    
+    +   PDF
++   ## Review on the terahertz transmission devices and their applications: From metal waveguides to terahertz fibers
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Ye-Qing Wu</td></tr><tr><th class="author">作者</th><td>Ming-Yang Chen</td></tr><tr><th class="author">作者</th><td>Zi-Jie Dai</td></tr><tr><th>摘要</th><td>Terahertz (THz) technology represents a frontier at the intersection of photonics and electronics, with unique capabilities for next-generation communications, bio-imaging, and quality monitoring. Recently, THz waveguides have made significant advancements, which are pivotal for realizing compact and lightweight THz systems. However, most past review articles have demonstrated the THz waveguides in terms of their materials or applications. In this review, we focus on the development and application of two principal THz waveguide types: metal and polymer. Our methodology includes a thorough examination of their characteristics, working principles, and performance metrics. The novelty of this review lies in its integrative approach, bridging the gap between theoretical developments and practical implementations. Major findings highlight the superior low-loss performance of metal waveguides for high-power applications and the flexibility of polymer waveguides for integrated systems. Finally, we discuss the potential prospects of next generation THz waveguides, emphasizing the need for materials with lower absorption coefficients and the development of active THz devices.</td></tr><tr><th>日期</th><td>05/2025</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>短标题</th><td>Review on the terahertz transmission devices and their applications</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/S0030399224017973">https://linkinghub.elsevier.com/retrieve/pii/S0030399224017973</a></td></tr><tr><th>访问时间</th><td>2025/4/12 20:54:48</td></tr><tr><th>卷次</th><td>183</td></tr><tr><th>页码</th><td>112339</td></tr><tr><th>刊名</th><td>Optics &amp; Laser Technology</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1016/j.optlastec.2024.112339">10.1016/j.optlastec.2024.112339</a></td></tr><tr><th>刊名简称</th><td>Optics &amp; Laser Technology</td></tr><tr><th>ISSN</th><td>00303992</td></tr><tr><th>添加日期</th><td>2025/4/12 20:54:48</td></tr><tr><th>修改日期</th><td>2025/4/14 15:14:07</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /must read
+    +   /多聚物波导
+    
+    ### 附件
+    
+    +   PDF
++   ## Short-pulse terahertz radiation from high-intensity-laser-produced plasmas
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>H Hamster</td></tr><tr><th class="author">作者</th><td>A Sullivan</td></tr><tr><th class="author">作者</th><td>S Gordon</td></tr><tr><th class="author">作者</th><td>R W Falcone</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>Zotero</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1103/PhysRevE.49.671">10.1103/PhysRevE.49.671</a></td></tr><tr><th>添加日期</th><td>2025/4/14 15:13:03</td></tr><tr><th>修改日期</th><td>2025/4/24 19:49:15</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## Simultaneous generation of a proton beam and terahertz radiation in high-intensity laser and thin-foil interaction
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>A. Sagisaka</td></tr><tr><th class="author">作者</th><td>H. Daido</td></tr><tr><th class="author">作者</th><td>S. Nashima</td></tr><tr><th class="author">作者</th><td>S. Orimo</td></tr><tr><th class="author">作者</th><td>K. Ogura</td></tr><tr><th class="author">作者</th><td>M. Mori</td></tr><tr><th class="author">作者</th><td>A. Yogo</td></tr><tr><th class="author">作者</th><td>J. Ma</td></tr><tr><th class="author">作者</th><td>I. Daito</td></tr><tr><th class="author">作者</th><td>A.S. Pirozhkov</td></tr><tr><th class="author">作者</th><td>S.V. Bulanov</td></tr><tr><th class="author">作者</th><td>T.Zh. Esirkepov</td></tr><tr><th class="author">作者</th><td>K. Shimizu</td></tr><tr><th class="author">作者</th><td>M. Hosoda</td></tr><tr><th>摘要</th><td>We have observed simultaneously both the fast proton generation and terahertz (THz) radiation in the laser pulse interaction with a 5-µm thick titanium target. In order to control the proton acceleration and THz radiation, we have changed the duration of the ampliﬁed spontaneous emission (ASE) preceding the main pulse generated by the high-intensity Ti:sapphire laser. A fast proton beam with the maximal energy of ∼ 490 keV has been realized by reducing the duration of the ASE. Simultaneously, an intense emission of THz radiation is observed for various ASE durations. We propose the antenna mechanism for the THz radiation, according to which the fast electrons moving along the target surface emit the low-frequency electromagnetic wave.</td></tr><tr><th>日期</th><td>3/2008</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="http://link.springer.com/10.1007/s00340-008-2931-8">http://link.springer.com/10.1007/s00340-008-2931-8</a></td></tr><tr><th>访问时间</th><td>2025/4/23 19:59:06</td></tr><tr><th>版权</th><td>http://www.springer.com/tdm</td></tr><tr><th>卷次</th><td>90</td></tr><tr><th>页码</th><td>373-377</td></tr><tr><th>刊名</th><td>Applied Physics B</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1007/s00340-008-2931-8">10.1007/s00340-008-2931-8</a></td></tr><tr><th>期号</th><td>3-4</td></tr><tr><th>刊名简称</th><td>Appl. Phys. B</td></tr><tr><th>ISSN</th><td>0946-2171, 1432-0649</td></tr><tr><th>添加日期</th><td>2025/4/23 19:59:06</td></tr><tr><th>修改日期</th><td>2025/4/30 19:19:38</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## Spintronic terahertz emitter: Performance, manipulation, and applications
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Zheng Feng</td></tr><tr><th class="author">作者</th><td>Da-Cheng Wang</td></tr><tr><th class="author">作者</th><td>Song Sun</td></tr><tr><th class="author">作者</th><td>Wei Tan</td></tr><tr><th class="author">作者</th><td>Microsystem and Terahertz Research Center, China Academy of Engineering Physics, Chengdu 610200, China</td></tr><tr><th class="author">作者</th><td>Institute of Electronic Engineering, China Academy of Engineering Physics, Mianyang 621999, China</td></tr><tr><th>摘要</th><td>Spintronic terahertz (THz) emitter, which is based on ultrafast spin-to-charge current conversion in ferromagnetic/nonmagnetic heterostructures, provides excellent advantages such as ultra-broadband, tunable polarization, and ultra-thin structure, thereby attracting increasing interests recently. In this review article, we first introduce the fundamental concepts of THz wave, THz spintronics and spintronic THz emitter. Next, we focus on the recent progress of spintronic THz emitter by closely looking at the performances, manipulations and applications. Performance improvement is presented based on the three fundamental processes: optical excitation, ultrafast spin transport, and THz emission. The active manipulation of polarization and spectral response, as well as the relevant applications such as ultra broadband measurements, magnetic structure detection and imaging, and THz near-field microscopy, are reviewed comprehensively. Finally, a brief summary and outlook are given.</td></tr><tr><th>日期</th><td>2020</td></tr><tr><th>语言</th><td>zh</td></tr><tr><th>短标题</th><td>Spintronic terahertz emitter</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.69.20200757">https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.69.20200757</a></td></tr><tr><th>访问时间</th><td>2025/4/4 11:57:30</td></tr><tr><th>卷次</th><td>69</td></tr><tr><th>页码</th><td>208705</td></tr><tr><th>刊名</th><td>Acta Physica Sinica</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.7498/aps.69.20200757">10.7498/aps.69.20200757</a></td></tr><tr><th>期号</th><td>20</td></tr><tr><th>刊名简称</th><td>Acta Phys. Sin.</td></tr><tr><th>ISSN</th><td>1000-3290, 1000-3290</td></tr><tr><th>添加日期</th><td>2025/4/4 11:57:30</td></tr><tr><th>修改日期</th><td>2025/4/4 11:57:30</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## Strong terahertz radiation from relativistic laser interaction with solid density plasmas
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Y. T. Li</td></tr><tr><th class="author">作者</th><td>C. Li</td></tr><tr><th class="author">作者</th><td>M. L. Zhou</td></tr><tr><th class="author">作者</th><td>W. M. Wang</td></tr><tr><th class="author">作者</th><td>F. Du</td></tr><tr><th class="author">作者</th><td>W. J. Ding</td></tr><tr><th class="author">作者</th><td>X. X. Lin</td></tr><tr><th class="author">作者</th><td>F. Liu</td></tr><tr><th class="author">作者</th><td>Z. M. Sheng</td></tr><tr><th class="author">作者</th><td>X. Y. Peng</td></tr><tr><th class="author">作者</th><td>L. M. Chen</td></tr><tr><th class="author">作者</th><td>J. L. Ma</td></tr><tr><th class="author">作者</th><td>X. Lu</td></tr><tr><th class="author">作者</th><td>Z. H. Wang</td></tr><tr><th class="author">作者</th><td>Z. Y. Wei</td></tr><tr><th class="author">作者</th><td>J. Zhang</td></tr><tr><th>摘要</th><td>We report a plasma-based strong THz source generated in intense laser-solid interactions at relativistic intensities &amp;gt;1018 W/cm2. Energies up to 50 μJ/sr per THz pulse is observed when the laser pulses are incident onto a copper foil at 67.5°. The temporal properties of the THz radiation are measured by a single shot, electro-optic sampling method with a chirped laser pulse. The THz radiation is attributed to the self-organized transient fast electron currents formed along the target surface. Such a source allows potential applications in THz nonlinear physics and provides a diagnostic of transient currents generated in intense laser-solid interactions.</td></tr><tr><th>日期</th><td>2012-06-18</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://pubs.aip.org/apl/article/100/25/254101/127141/Strong-terahertz-radiation-from-relativistic-laser">https://pubs.aip.org/apl/article/100/25/254101/127141/Strong-terahertz-radiation-from-relativistic-laser</a></td></tr><tr><th>访问时间</th><td>2025/4/14 14:57:09</td></tr><tr><th>卷次</th><td>100</td></tr><tr><th>页码</th><td>254101</td></tr><tr><th>刊名</th><td>Applied Physics Letters</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1063/1.4729874">10.1063/1.4729874</a></td></tr><tr><th>期号</th><td>25</td></tr><tr><th>ISSN</th><td>0003-6951, 1077-3118</td></tr><tr><th>添加日期</th><td>2025/4/14 14:57:09</td></tr><tr><th>修改日期</th><td>2025/4/14 14:57:10</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   PDF
++   ## Terahertz emission from a laser pulse with tilted front: Phase-matching versus Cherenkov effect
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>M. I. Bakunov</td></tr><tr><th class="author">作者</th><td>S. B. Bodrov</td></tr><tr><th class="author">作者</th><td>M. V. Tsarev</td></tr><tr><th>摘要</th><td>A theory that describes the terahertz generation via optical rectification of a femtosecond laser pulse with tilted front in an electro-optic crystal is developed. The theory accounts for the transverse size of the laser pulse and allows us to explore the dependence of the terahertz yield on laser focusing. Two typical experimental situations—LiNbO3 excited with Ti:sapphire laser at room and cryogenic temperatures—are considered. It is shown that depending on temperature the dominant generation mechanism can be either phase-matching or Cherenkov effect. The parameters of the laser pulse (transverse size, tilt angle, and pulse duration) and crystal size maximizing the terahertz yield for LiNbO3 are calculated.</td></tr><tr><th>日期</th><td>2008-10-01</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>短标题</th><td>Terahertz emission from a laser pulse with tilted front</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://pubs.aip.org/jap/article/104/7/073105/146078/Terahertz-emission-from-a-laser-pulse-with-tilted">https://pubs.aip.org/jap/article/104/7/073105/146078/Terahertz-emission-from-a-laser-pulse-with-tilted</a></td></tr><tr><th>访问时间</th><td>2025/5/2 16:51:44</td></tr><tr><th>卷次</th><td>104</td></tr><tr><th>页码</th><td>073105</td></tr><tr><th>刊名</th><td>Journal of Applied Physics</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1063/1.2989999">10.1063/1.2989999</a></td></tr><tr><th>期号</th><td>7</td></tr><tr><th>ISSN</th><td>0021-8979, 1089-7550</td></tr><tr><th>添加日期</th><td>2025/5/2 16:51:44</td></tr><tr><th>修改日期</th><td>2025/5/2 18:15:22</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## Terahertz Molecular Imaging and Its Clinical Applications
+    
+    <table><tbody><tr><th>条目类型</th><td>图书章节</td></tr><tr><th class="author">作者</th><td>Praveen Kumar Poola</td></tr><tr><th class="author">作者</th><td>Yogeenth Kumaresan</td></tr><tr><th class="author">作者</th><td>Ilya Krasnikov</td></tr><tr><th class="author">作者</th><td>Aleksei Seteikin</td></tr><tr><th>日期</th><td>2020</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000112">https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000112</a></td></tr><tr><th>访问时间</th><td>2025/4/5 22:29:45</td></tr><tr><th>版权</th><td>https://www.elsevier.com/tdm/userlicense/1.0/</td></tr><tr><th>其他</th><td>DOI: 10.1016/B978-0-12-818556-8.00011-2</td></tr><tr><th>出版社</th><td>Elsevier</td></tr><tr><th>ISBN</th><td>978-0-12-818556-8</td></tr><tr><th>页码</th><td>195-213</td></tr><tr><th>书名</th><td>Terahertz Biomedical and Healthcare Technologies</td></tr><tr><th>添加日期</th><td>2025/4/5 22:29:45</td></tr><tr><th>修改日期</th><td>2025/4/7 18:38:22</td></tr></tbody></table>
+    
+    ### 笔记：
+    
+    +   ### 可以使用
+        
+    
+    ### 附件
+    
+    +   PDF
++   ## Terahertz Quantum-Cascade Lasers: From Design to Applications
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Xiang Lü</td></tr><tr><th class="author">作者</th><td>Benjamin Röben</td></tr><tr><th class="author">作者</th><td>Valentino Pistore</td></tr><tr><th class="author">作者</th><td>Klaus Biermann</td></tr><tr><th class="author">作者</th><td>Esperanza Luna</td></tr><tr><th class="author">作者</th><td>Martin Wienold</td></tr><tr><th class="author">作者</th><td>Heinz-Wilhelm Hübers</td></tr><tr><th class="author">作者</th><td>Jente R. Wubs</td></tr><tr><th class="author">作者</th><td>Jean-Pierre H. Van Helden</td></tr><tr><th class="author">作者</th><td>Pierre Gellie</td></tr><tr><th class="author">作者</th><td>Lutz Schrottke</td></tr><tr><th>摘要</th><td>We report on the development and the application of high-performance terahertz (THz) quantum-cascade lasers (QCLs) based on GaAs/AlxGa1−xAs heterostructures. These lasers with emission frequencies between 2.6 and 4.7 THz are based on a hybrid design, which is preferred for continuous-wave applications. For the design of the active regions, we employ an efﬁcient Fourier-transform-based model, which also allows for the simulation of heterostructures with gradual interfaces. Since the inherent interface width is on the same order as the thickness of the layers in the active region, the use of nominally binary AlAs barriers results in an effective Al content up to x = 0.6 for the tallest barriers. For practical applications, Fabry–Pérot lasers based on single-plasmon waveguides are fabricated. Single-mode operation is in most cases achieved by using short cavities. In particular, GaAs/AlAs THz QCLs show a sufﬁciently high wall plug efﬁciency so that they can be operated in miniature mechanical cryocoolers. Currently, high-performance THz QCLs are used for commercial continuous-wave, table-top THz systems, local oscillators in 3.5- and 4.7-THz heterodyne spectrometers, and absorption spectrometers for the determination of the density of atomic oxygen in plasmas.</td></tr><tr><th>日期</th><td>9/2024</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>短标题</th><td>Terahertz Quantum-Cascade Lasers</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://ieeexplore.ieee.org/document/10559383/">https://ieeexplore.ieee.org/document/10559383/</a></td></tr><tr><th>访问时间</th><td>2025/5/2 18:56:31</td></tr><tr><th>版权</th><td>https://creativecommons.org/licenses/by/4.0/legalcode</td></tr><tr><th>卷次</th><td>14</td></tr><tr><th>页码</th><td>579-591</td></tr><tr><th>刊名</th><td>IEEE Transactions on Terahertz Science and Technology</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1109/TTHZ.2024.3415501">10.1109/TTHZ.2024.3415501</a></td></tr><tr><th>期号</th><td>5</td></tr><tr><th>刊名简称</th><td>IEEE Trans. THz Sci. Technol.</td></tr><tr><th>ISSN</th><td>2156-342X, 2156-3446</td></tr><tr><th>添加日期</th><td>2025/5/2 18:56:31</td></tr><tr><th>修改日期</th><td>2025/5/2 20:26:55</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## Terahertz smart devices based on phase change material VO2 and metamaterial graphene that combine thermally adjustable absorption and selective transmission
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Wenqiang Lu</td></tr><tr><th class="author">作者</th><td>Weiming Zhang</td></tr><tr><th class="author">作者</th><td>Qianju Song</td></tr><tr><th class="author">作者</th><td>Zao Yi</td></tr><tr><th class="author">作者</th><td>Shubo Cheng</td></tr><tr><th class="author">作者</th><td>Bin Tang</td></tr><tr><th class="author">作者</th><td>Qingdong Zeng</td></tr><tr><th class="author">作者</th><td>Pinghui Wu</td></tr><tr><th class="author">作者</th><td>Sohail Ahmad</td></tr><tr><th>摘要</th><td>In this paper, a classical three-layer structure of proportionate terahertz intelligent device composed of vanadium dioxide and graphene is simulated and designed. The proportionate setting of this intelligent device allows for better control over the size of surface microstructures, thereby enhancing the utilization of materials during the production process. At a temperature of T = 345 K, the device exhibits perfect absorption efficiency of greater than or equal to 90 % in the frequency range of 2.46 THz to 6.85 THz (4.39 THz), spanning almost half of the terahertz band. At a temperature of T = 323 K, the device achieves absorption of over 77.3 % in the frequency range of 3.04 THz to 5.64 THz, with average transmittance rates of 69.61 % and 69.79 % in the frequency ranges of 0.01 THz to 2.32 THz and 6.82 THz to 10.00 THz, respectively. We use vanadium dioxide as the bottom layer to avoid the effect of traditional metal substrates that prevent electromagnetic waves from transmitting and limit the conversion of terahertz device performance. Temperature modulation enables control over absorption and transmission. We first explain the results based on the crystal structure within VO2 and then analyze the surface electric field of the device at two temperatures using surface plasmons (SPs). By adjusting the structural parameters of the absorber and applying an external bias voltage, the Fermi energy of graphene can be altered, demonstrating the device’s physical coherence, manufacturing tolerance, and dynamic tuning capability. We investigate the influence of different incident angles of external electromagnetic waves on the device performance, showing that it maintains excellent performance over a wide range of angles, which is crucial for practical applications. Finally, we examined the implications of employing the Drude model to characterize silicon dioxide in the terahertz range and its potential impact on device performance. This holds significant implications for communication, detection, sensing, imaging, and provides insights for future terahertz device development.</td></tr><tr><th>日期</th><td>02/2025</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/S0030399224013860">https://linkinghub.elsevier.com/retrieve/pii/S0030399224013860</a></td></tr><tr><th>访问时间</th><td>2025/4/7 19:32:34</td></tr><tr><th>卷次</th><td>181</td></tr><tr><th>页码</th><td>111928</td></tr><tr><th>刊名</th><td>Optics &amp; Laser Technology</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1016/j.optlastec.2024.111928">10.1016/j.optlastec.2024.111928</a></td></tr><tr><th>刊名简称</th><td>Optics &amp; Laser Technology</td></tr><tr><th>ISSN</th><td>00303992</td></tr><tr><th>添加日期</th><td>2025/4/7 19:32:34</td></tr><tr><th>修改日期</th><td>2025/4/7 19:43:51</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /important
+    
+    ### 笔记：
+    
+    +   # Terahertz smart devices based on phase change material VO2 and metamaterial graphene that combine thermally adjustable absorption and selective transmission
+        
+        期刊：Optics & Laser Technology  
+        DOI：[10.1016/j.optlastec.2024.111928](https://doi.org/10.1016/j.optlastec.2024.111928)
+        
+        ### 🖊 摘要
+        
+        ### 💡创新点
+        
+        使用$VO2$这种材料降低外界电磁波的干扰
+        
+        ### 🔬方法
+        
+        使用入射角不同的THz电磁波入射这种材料，显示出宽谱带的适应性
+        
+        ### 📉实验
+        
+        ### 📕相关文献
+        
+    
+    ### 附件
+    
+    +   PDF
+    
+    ### 相关
+    
+    +   A journey of terahertz communication: An IRS integration perspective
++   ## Terahertz Sources Based on Difference-Frequency Generation for Spectroscopy and Biomaterial Analysis
+    
+    <table><tbody><tr><th>条目类型</th><td>图书章节</td></tr><tr><th class="author">作者</th><td>Srinivasa Rao Ragam</td></tr><tr><th class="author">作者</th><td>Pu Zhao</td></tr><tr><th class="author">作者</th><td>Yutaka Oyama</td></tr><tr><th>日期</th><td>2020</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000021">https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000021</a></td></tr><tr><th>访问时间</th><td>2025/4/5 22:29:18</td></tr><tr><th>版权</th><td>https://www.elsevier.com/tdm/userlicense/1.0/</td></tr><tr><th>其他</th><td>DOI: 10.1016/B978-0-12-818556-8.00002-1</td></tr><tr><th>出版社</th><td>Elsevier</td></tr><tr><th>ISBN</th><td>978-0-12-818556-8</td></tr><tr><th>页码</th><td>43-55</td></tr><tr><th>书名</th><td>Terahertz Biomedical and Healthcare Technologies</td></tr><tr><th>添加日期</th><td>2025/4/5 22:29:18</td></tr><tr><th>修改日期</th><td>2025/4/5 22:29:18</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   PDF
++   ## Terahertz Technology—Emerging Trends and Application Viewpoints
+    
+    <table><tbody><tr><th>条目类型</th><td>图书章节</td></tr><tr><th class="author">作者</th><td>Subal Kar</td></tr><tr><th>日期</th><td>2020</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000057">https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000057</a></td></tr><tr><th>访问时间</th><td>2025/4/5 22:29:26</td></tr><tr><th>版权</th><td>https://www.elsevier.com/tdm/userlicense/1.0/</td></tr><tr><th>其他</th><td>DOI: 10.1016/B978-0-12-818556-8.00005-7</td></tr><tr><th>出版社</th><td>Elsevier</td></tr><tr><th>ISBN</th><td>978-0-12-818556-8</td></tr><tr><th>页码</th><td>89-111</td></tr><tr><th>书名</th><td>Terahertz Biomedical and Healthcare Technologies</td></tr><tr><th>添加日期</th><td>2025/4/5 22:29:26</td></tr><tr><th>修改日期</th><td>2025/4/5 22:29:27</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   PDF
++   ## Terahertz wave parametric source
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Kodo Kawase</td></tr><tr><th class="author">作者</th><td>Jun-ichi Shikata</td></tr><tr><th class="author">作者</th><td>Hiromasa Ito</td></tr><tr><th>摘要</th><td>Widely tunable terahertz (THz) wave generation by optical parametric processes based on laser light scattering from the polariton mode of nonlinear crystals is reviewed. Using parametric oscillation of LiNbO3 or MgO-doped LiNbO3 crystal pumped by a nanosecond Q-switched Nd : YAG laser, we have realized widely tunable coherent THz-wave sources in the range between 0.7 and 3 THz, with a simple conﬁguration. For the efﬁcient coupling of the THz wave, a monolithic grating coupler or an Si-prism array coupler was used. We report the detailed characteristics of the oscillation and the radiation, including tunability, spatial and temporal coherency, uni-directivity, and efﬁciency. Further, Fourier transform limited THz-wave spectrum narrowing was achieved by introducing the injection seeding method. A linewidth of about 100 MHz (0.0033 cm−1) was assured by the absorption spectrum measurement of low-pressure water vapour. At the same time, the THz-wave output was increased hundreds of times higher than that of a conventional generator which has no injection seeder. In addition, a wider tunability was observed using a tunable diode laser as the injection seeder. This room-temperature-operated, tabletop system promises to be a new widely tunable THz-wave source that is suited to a variety of applications.</td></tr><tr><th>日期</th><td>2002-02-07</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://iopscience.iop.org/article/10.1088/0022-3727/35/3/201">https://iopscience.iop.org/article/10.1088/0022-3727/35/3/201</a></td></tr><tr><th>访问时间</th><td>2025/5/2 13:33:03</td></tr><tr><th>卷次</th><td>35</td></tr><tr><th>页码</th><td>R1-R14</td></tr><tr><th>刊名</th><td>Journal of Physics D: Applied Physics</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1088/0022-3727/35/3/201">10.1088/0022-3727/35/3/201</a></td></tr><tr><th>期号</th><td>3</td></tr><tr><th>刊名简称</th><td>J. Phys. D: Appl. Phys.</td></tr><tr><th>ISSN</th><td>0022-3727, 1361-6463</td></tr><tr><th>添加日期</th><td>2025/5/2 13:33:03</td></tr><tr><th>修改日期</th><td>2025/5/2 15:42:09</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## Theoretical study of transition radiation from hot electrons generated in the laser–solid interaction
+    
+    <table><tbody><tr><th>条目类型</th><td>期刊文章</td></tr><tr><th class="author">作者</th><td>Jian Zheng</td></tr><tr><th class="author">作者</th><td>K. A. Tanaka</td></tr><tr><th class="author">作者</th><td>T. Miyakoshi</td></tr><tr><th class="author">作者</th><td>Y. Kitagawa</td></tr><tr><th class="author">作者</th><td>R. Kodama</td></tr><tr><th class="author">作者</th><td>T. Kurahashi</td></tr><tr><th class="author">作者</th><td>T. Yamanaka</td></tr><tr><th>摘要</th><td>Transition radiation from a beam of hot electrons generated in ultraintense laser plasma interaction is theoretically studied. The total radiation is separated into two parts: one is incoherent transition radiation (ITR), the other is coherent transition radiation (CTR). The spectrum of ITR just depends on the particle velocity distribution in the beam. The angular distribution of ITR varies from sin2 θ, and approaches the angular distribution of the beam when the hot electron temperature increases from the nonrelativistic limit (T≪mc2) to the ultrarelativistic limit (T≫mc2). The spectrum of CTR is dependent on the particle configuration as well as their velocities. Any microbunching in the beam can greatly enhance the CTR intensity at the microbunching frequency, from which the dominant heating process can be inferred. The effects of target thickness and hot electron temperature on CTR intensity are also calculated. The simplified model shows that the CTR intensity decreases with the increase of the target thickness, and increases with the hot electron temperature. The divergence of the beam can broaden the CTR spectrum.</td></tr><tr><th>日期</th><td>2003-07-01</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>Crossref</td></tr><tr><th>网址</th><td><a href="https://pubs.aip.org/pop/article/10/7/2994/261241/Theoretical-study-of-transition-radiation-from-hot">https://pubs.aip.org/pop/article/10/7/2994/261241/Theoretical-study-of-transition-radiation-from-hot</a></td></tr><tr><th>访问时间</th><td>2025/5/1 14:55:41</td></tr><tr><th>其他</th><td>Publisher: AIP Publishing</td></tr><tr><th>卷次</th><td>10</td></tr><tr><th>页码</th><td>2994-3003</td></tr><tr><th>刊名</th><td>Physics of Plasmas</td></tr><tr><th>DOI</th><td><a href="http://doi.org/10.1063/1.1576388">10.1063/1.1576388</a></td></tr><tr><th>期号</th><td>7</td></tr><tr><th>ISSN</th><td>1070-664X, 1089-7674</td></tr><tr><th>添加日期</th><td>2025/5/1 14:55:41</td></tr><tr><th>修改日期</th><td>2025/5/1 16:23:31</td></tr></tbody></table>
+    
+    ### 附件
+    
+    +   PDF
++   ## THz Medical Imaging: Current Status and Future Outlook
+    
+    <table><tbody><tr><th>条目类型</th><td>图书章节</td></tr><tr><th class="author">作者</th><td>M. Mukherjee</td></tr><tr><th class="author">作者</th><td>Sulagna Chatterjee</td></tr><tr><th>日期</th><td>2020</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>短标题</th><td>THz Medical Imaging</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000069">https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000069</a></td></tr><tr><th>访问时间</th><td>2025/4/5 22:29:30</td></tr><tr><th>版权</th><td>https://www.elsevier.com/tdm/userlicense/1.0/</td></tr><tr><th>其他</th><td>DOI: 10.1016/B978-0-12-818556-8.00006-9</td></tr><tr><th>出版社</th><td>Elsevier</td></tr><tr><th>ISBN</th><td>978-0-12-818556-8</td></tr><tr><th>页码</th><td>113-125</td></tr><tr><th>书名</th><td>Terahertz Biomedical and Healthcare Technologies</td></tr><tr><th>添加日期</th><td>2025/4/5 22:29:30</td></tr><tr><th>修改日期</th><td>2025/4/5 22:29:30</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   PDF
++   ## THz Solid-State Source Based on IMPATT Devices
+    
+    <table><tbody><tr><th>条目类型</th><td>图书章节</td></tr><tr><th class="author">作者</th><td>Suranjana Banerjee</td></tr><tr><th>日期</th><td>2020</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/B978012818556800001X">https://linkinghub.elsevier.com/retrieve/pii/B978012818556800001X</a></td></tr><tr><th>访问时间</th><td>2025/4/5 22:29:14</td></tr><tr><th>版权</th><td>https://www.elsevier.com/tdm/userlicense/1.0/</td></tr><tr><th>其他</th><td>DOI: 10.1016/B978-0-12-818556-8.00001-X</td></tr><tr><th>出版社</th><td>Elsevier</td></tr><tr><th>ISBN</th><td>978-0-12-818556-8</td></tr><tr><th>页码</th><td>1-41</td></tr><tr><th>书名</th><td>Terahertz Biomedical and Healthcare Technologies</td></tr><tr><th>添加日期</th><td>2025/4/5 22:29:14</td></tr><tr><th>修改日期</th><td>2025/4/5 22:29:15</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   PDF
++   ## Waveguides for Terahertz Endoscopy
+    
+    <table><tbody><tr><th>条目类型</th><td>图书章节</td></tr><tr><th class="author">作者</th><td>Praveen Kumar Poola</td></tr><tr><th class="author">作者</th><td>Ilya Krasnikov</td></tr><tr><th class="author">作者</th><td>Aleksei Seteikin</td></tr><tr><th>日期</th><td>2020</td></tr><tr><th>语言</th><td>en</td></tr><tr><th>文库编目</th><td>DOI.org (Crossref)</td></tr><tr><th>网址</th><td><a href="https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000124">https://linkinghub.elsevier.com/retrieve/pii/B9780128185568000124</a></td></tr><tr><th>访问时间</th><td>2025/4/5 22:28:56</td></tr><tr><th>版权</th><td>https://www.elsevier.com/tdm/userlicense/1.0/</td></tr><tr><th>其他</th><td>DOI: 10.1016/B978-0-12-818556-8.00012-4</td></tr><tr><th>出版社</th><td>Elsevier</td></tr><tr><th>ISBN</th><td>978-0-12-818556-8</td></tr><tr><th>页码</th><td>215-224</td></tr><tr><th>书名</th><td>Terahertz Biomedical and Healthcare Technologies</td></tr><tr><th>添加日期</th><td>2025/4/5 22:28:56</td></tr><tr><th>修改日期</th><td>2025/4/5 22:28:56</td></tr></tbody></table>
+    
+    ### 标签：
+    
+    +   /unread
+    
+    ### 附件
+    
+    +   PDF
